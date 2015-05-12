@@ -1,0 +1,14 @@
+<bookstore>
+    <book category="COOKING">
+        <title lang="en">Everyday Italian</title>
+        <author>Giada De Laurentiis</author>
+        <year>2005</year>
+        <price update="Mon May 11 23:50:44 2015">51.0</price>
+    </book>
+    <book category="WEB">
+        <title lang="en">Learning XML</title>
+        <author>Erik T. Ray</author>
+        <year>2003</year>
+        <price update="Mon May 11 23:50:44 2015">60.95</price>
+    </book>
+<book>Python</book></bookstore>
