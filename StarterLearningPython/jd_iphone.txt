@@ -1,0 +1,2144 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<script>
+window.jdpts={};jdpts._st=new Date().getTime();window.pageConfig={
+	compatible: true,
+	searchType: 0,
+	verticalMessage: false,
+	queryParam: {
+		c1: '',
+		c2: '',
+		c3: '',
+		brand: '',
+		price: '',
+		keyword: '苹果手机',
+		page: '1'
+	}
+};
+window.SEARCH = {
+	enable_presale: 1,
+	enable_price: 1,
+	enable_stock: 1,
+	is_correct_hash: function(e){var a=["keyword","brand_id","activity_id","coupon_id"];for(var c=0,b=a.length;c<b;c++){var d=new RegExp("(^|\\?|&)"+a[c]+"=([^&]*)(\\s|&|$)");if(d.test(e)){return true}}return false},
+	get_real_hash: function(){var a=window.location.hash.substr(1);if(a&&$.browser.mozilla){return location.href.substr(location.href.indexOf("#")+1)}else{return a}}
+};
+window.searchUnit = {
+	resizeOnebox: function(a,b){"undefined"!=typeof a&&$("string"==typeof b?"#J_oneBoxFrame_"+b:"#virtualWareIFrame").css("height",parseInt(a)+10)},
+	resizeShopbox: function(a,b){if(new Date().getTime()-this.loadingStart>60000)return false;if(a==1||a==2){$("#shopboxIFrame").css("height",146).show()}else{if(a==3){$("#shopboxIFrame").css("height",80).show()}}typeof(b)=="string"&&(new Image().src=b)}
+};
+window.QUERY_KEYWORD='苹果手机';
+window.REAL_KEYWORD='苹果手机';
+window._is_extranet=2;
+</script>
+<meta http-equiv="Cache-Control" content="max-age=300" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>苹果手机 - 商品搜索 - 京东</title><meta name="Keywords" content="苹果手机,京东苹果手机" /><meta name="description" content="在京东中找到了40件苹果手机的类似商品，其中包含了“手机通讯”，“运营商”等类型的苹果手机的商品。" /><link rel="dns-prefetch" href="//search.jd.com" /><link rel="dns-prefetch" href="//item.jd.com" /><link rel="dns-prefetch" href="//list.jd.com" /><link rel="dns-prefetch" href="//p.3.cn" /><link rel="dns-prefetch" href="//misc.360buyimg.com" /><link rel="dns-prefetch" href="//nfa.jd.com" /><link rel="dns-prefetch" href="//d.jd.com" /><link rel="dns-prefetch" href="//img12.360buyimg.com" /><link rel="dns-prefetch" href="//img13.360buyimg.com" /><link rel="dns-prefetch" href="//static.360buyimg.com" /><link rel="dns-prefetch" href="//csc.jd.com" /><link rel="dns-prefetch" href="//mercury.jd.com" /><link rel="dns-prefetch" href="//x.jd.com" /><link rel="dns-prefetch" href="//wl.jd.com" /><link rel="stylesheet" type="text/css" href="http://misc.360buyimg.com/lib/skin/2013/base.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://misc.360buyimg.com/201007/skin/df/psearch20131008.css?v=20150507" media="all" />
+<link rel="stylesheet" type="text/css" href="http://misc.360buyimg.com/201007/skin/df/psearch.onebox.css?v=20150507" media="all" />
+<link rel="stylesheet" type="text/css" href="http://misc.360buyimg.com/contrast/skin/2012/pop_compare.css?v=20150507" media="all" />
+<script type="text/javascript" src="http://misc.360buyimg.com/lib/js/e/jquery-1.2.6.pack.js"></script>
+<script>
+(function(w, s){
+	var _hash = s.get_real_hash();
+	if ( s.is_correct_hash(_hash) ) {
+        w.location.href = w.location.pathname+'?'+_hash;
+		return false;
+	}
+})(window, SEARCH);
+</script>
+</head>
+<body>
+<script type="text/javascript" src="http://misc.360buyimg.com/lib/js/2012/base-2011.js" charset="gb2312"></script>
+<div id="shortcut-2013">
+	<div class="w">
+		<ul class="fl lh">
+			<li class="fore1 ld"><b></b><a href="javascript:addToFavorite()" rel="nofollow">收藏京东</a></li>
+		</ul>
+		<ul class="fr lh">
+			<li class="fore1" id="loginbar">您好！欢迎来到京东！<a href="javascript:login()">[登录]</a>&nbsp;<a href="javascript:regist()">[免费注册]</a></li>
+			<li class="fore2 ld">
+				<s></s>
+				<a href="http://order.jd.com/center/list.action" rel="nofollow">我的订单</a>
+			</li>
+			<li class="fore2-1 ld" id="jd-vip">
+				<i></i>
+				<s></s>
+				<a target="_blank" rel="nofollow" href="http://vip.jd.com">会员俱乐部</a>
+			</li>
+			<li class="fore3 ld menu" id="app-jd" data-widget="dropdown">
+				<s></s><i></i><span class="outline"></span><span class="blank"></span>
+				<a href="http://app.jd.com/" target="_blank">手机京东</a><b></b>
+			</li>
+			<li class="fore4 ld menu" id="biz-service" data-widget="dropdown">
+				<s></s>
+				<span class="outline"></span>
+				<span class="blank"></span>
+				客户服务
+				<b></b>
+				<div class="dd">
+					<div><a href="http://help.jd.com/index.html" target="_blank">帮助中心</a></div>
+					<div><a href="http://myjd.jd.com/repair/orderlist.action" target="_blank" rel="nofollow">售后服务</a></div>
+					<div><a href="http://chat.jd.com/jdchat/custom.action" target="_blank" rel="nofollow">在线客服</a></div>
+					<div><a href="http://myjd.jd.com/opinion/list.action" target="_blank" rel="nofollow">投诉中心</a></div>
+					<div><a href="http://www.jd.com/contact/service.html" target="_blank">客服邮箱</a></div>
+				</div>
+			</li>
+			<li class="fore5 ld menu" id="site-nav" data-widget="dropdown">
+				<s></s>
+				<span class="outline"></span>
+				<span class="blank"></span>
+				网站导航
+				<b></b>
+				<div class="dd lh">
+					<dl class="item fore1">
+						<dt>特色栏目</dt>
+						<dd>
+							<div><a target="_blank" href="http://mobile.jd.com/index.do">京东通信</a></div>
+							<div><a href="http://jdstar.jd.com/" target="_blank">校园之星</a></div>
+							<div><a target="_blank" href="http://my.jd.com/personal/guess.html">为我推荐</a></div>
+							<div><a target="_blank" href="http://shipingou.jd.com/">视频购物</a></div>
+							<div><a target="_blank" href="http://club.jd.com/">京东社区</a></div>							
+							<div><a target="_blank" href="http://read.jd.com/">在线读书</a></div>
+							<div><a target="_blank" href="http://diy.jd.com/">装机大师</a></div>
+							<div><a target="_blank" href="http://giftcard.jd.com/market/index.action">京东E卡</a></div>
+							<div><a target="_blank" href="http://channel.jd.com/jiazhuang.html">家装城</a></div>
+							<div><a target="_blank" href="http://dapeigou.jd.com/">搭配购</a></div>
+							<div><a target="_blank" href="http://xihuan.jd.com/">我喜欢</a></div>
+						</dd>
+					</dl>
+					<dl class="item fore2">
+						<dt>企业服务</dt>
+						<dd>
+							<div><a target="_blank" href="http://giftcard.jd.com/company/index">企业客户</a></div>
+							<div><a target="_blank" href="http://sale.jd.com/p10997.html">办公直通车</a></div>
+						</dd>
+					</dl>
+					<dl class="item fore3">
+						<dt>旗下网站</dt>
+						<dd>
+							<div><a target="_blank" href="http://en.jd.com/">English Site</a></div>
+						</dd>
+					</dl>
+				</div>
+			</li>
+		</ul>
+		<span class="clr"></span>
+	</div>
+</div><!--shortcut end--><div id="o-header-2013">
+	<div class="w" id="header-2013">
+		<div id="logo-2013" class="ld"><a href="http://www.jd.com/" hidefocus="true"><b></b><img src="http://misc.360buyimg.com/lib/img/e/logo-201305.png" width="270" height="60" alt="京东"></a></div>
+		<!--logo end-->
+		<div id="search-2013">
+			<div class="i-search ld">
+				<ul id="shelper" class="hide">
+				</ul>
+				<div class="form">
+					<input type="text" class="text" accesskey="s" id="key" autocomplete="off" onkeydown="javascript:if(event.keyCode==13) search('key');">
+					<input type="button" value="搜索" class="button" onclick="search('key');return false;">
+				</div>
+			</div>
+			<div id="hotwords"></div>
+		</div>
+		<!--search end-->
+		<div id="my360buy-2013">
+			<dl>
+				<dt class="ld"><s></s><a href="http://home.jd.com/">我的京东</a><b></b></dt>
+				<dd>
+					<div class="loading-style1"><b></b>加载中，请稍候...</div>
+				</dd>
+			</dl>
+		</div>
+		<!--my360buy end-->
+		<div id="settleup-2013">
+			<dl>
+				<dt class="ld"><s></s><span class="shopping"><span id="shopping-amount"></span></span><a href="http://cart.jd.com/cart/cart.html" id="settleup-url">去购物车结算</a> <b></b> </dt>
+				<dd>
+					<div class="prompt">
+						<div class="loading-style1"><b></b>加载中，请稍候...</div>
+					</div>
+				</dd>
+			</dl>
+		</div>
+		<!--settleup end-->
+	</div>
+	<!--header end-->
+	<div class="w">
+		<div id="nav-2013">
+			<div id="categorys-2013">
+				<div class="mt ld">
+					<h2><a href="http://www.jd.com/allSort.aspx">全部商品分类<b></b></a></h2>
+				</div>
+				<div id="_JD_ALLSORT" class="mc"></div>
+			</div>
+			<div id="treasure"></div>
+			<ul id="navitems-2013">
+				<li class="fore1" id="nav-home"><a href="http://www.jd.com/">首页</a></li>
+				<li class="fore2" id="nav-fashion"><a href="http://fashion.jd.com/">服装城</a></li>
+				<li class="fore3" id="nav-chaoshi"><a href="http://channel.jd.com/chaoshi.html">美食</a></li>
+				<li class="fore4" id="nav-tuan"><a href="http://tuan.jd.com/" target="_blank">团购</a></li>
+				<li class="fore5" id="nav-auction"><a href="http://auction.jd.com/">夺宝岛</a></li>
+				<li class="fore6" id="nav-shan"><a href="http://red.jd.com/">闪购</a></li>
+				<li class="fore7" id="nav-jinrong"><a href="http://jr.jd.com/" target="_blank">金融</a></li>
+				<li class="fore8" id="nav-smart"><a href="http://smart.jd.com/" target="_blank" >智能</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+(function(){if(pageConfig.navId){var object=document.getElementById("nav-"+pageConfig.navId);if(object)object.className+=" curr";}})();
+</script>
+<!-- header end --><div class="w main">
+	<div class="crumb">全部结果&nbsp;&gt;&nbsp;<strong>"苹果手机"</strong></div>
+	<div class="left">
+		<div class="m" id="refilter">
+			<div class="mt">
+				<h2>所有类目</h2>
+			</div>
+			<div class="mc">
+<div class="item fore hover">
+		<h3>
+			<b></b>
+			<a href="#keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&cid2=653&click=2-653" id="category-2-653" onclick="searchlog(1,653,0,51)">手机通讯</a>
+		</h3>
+		<ul>
+			<li>
+				<s class="tree-last"></s>
+				<a href="#keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&cid3=655&click=3-655" id="category-3-655" onclick="searchlog(1,655,0,51)">手机</a>
+			</li>
+		</ul>
+</div>
+<div class="item hover">
+		<h3>
+			<b></b>
+			<a href="#keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&cid2=6880&click=2-6880" id="category-2-6880" onclick="searchlog(1,6880,1,51)">运营商</a>
+		</h3>
+		<ul>
+			<li>
+				<s class="tree-last"></s>
+				<a href="#keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&cid3=6881&click=3-6881" id="category-3-6881" onclick="searchlog(1,6881,10000,51)">合约机</a>
+			</li>
+		</ul>
+</div>
+<script>
+SEARCH.top_url = 'search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1';
+SEARCH.list_category = '';
+SEARCH.click = '';
+SEARCH.cid_style = function(){if(this.click){var b=$("#category-"+this.click),a=this.click.indexOf("2-")==0;if(a){b.attr("class","curr").parent().parent().addClass("hover").show()}else{b.parent().attr("class","curr").parents('div.item').addClass('hover').show().find("h3 a").attr("class","curr")}}}
+</script>
+			</div>
+		</div>
+		<div id="ad_left" reco_id="6" class="m m0 hide"></div>
+		<div class="promo-pic-ad hide">
+			<h5 class="hd">商家精选</h5>
+			<div id="xjd_left_576" class="bd"></div>
+		</div>
+		<div id="miaozhen8148"></div>
+	</div>
+	<div class="right-extra">
+<iframe id="shopboxIFrame" style="display:none;" scrolling="no" width="100%" height="0" marginwidth="0" marginheight="0" frameborder="0" src="http://nfa.jd.com/ad_search_shop?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&shop_id="></iframe>
+<script>searchUnit.loadingStart=new Date().getTime();</script>
+<div class="dialogbox" id="dialogbox-gift" clstag="search|keycount|search|relative-search1" >
+	<div class="gift"><em></em>
+		<a href="javascript:;">京东帮您选礼物</a>
+		<div class="prompt">
+			<div class="pc"><dl class="fore"><dt>送给谁：</dt><dd></dd></dl><dl><dt>啥时送：</dt><dd></dd></dl><dl><dt>&nbsp;</dt><dd><input type="button" value="搜索" class="btn-gift-search" onclick="GS.search()"></dd></dl></div>
+			<div class="pt"><i class="i1"></i><i class="i2"></i><i class="i3"></i></div>
+		</div>
+	</div>
+</div>
+<div class="clr"></div>
+<div id="box-search" style="display: none;"></div><div class="m" id="select">
+	<div class="mt">
+		<h1>苹果手机&nbsp;&nbsp;<strong>商品筛选</strong></h1>
+		<div class="total">
+			<span>(共<strong id="res_count">40</strong>个商品)</span>
+		</div>
+	</div>
+<div class="mc attrs">
+<div class="brand-attr">
+	<div class="attr">
+		<div class="a-key">品牌：</div>
+		<div class="a-values">
+			<div class="v-search hide">
+				<input type="text" id="brand-search">
+			</div>
+			<div class="v-option">
+				<span class="o-more"><b></b>更多</span>
+				<span class="o-multiple"><b></b>多选</span>
+			</div>
+			<div class="v-tabs">
+				<ul class="tab hide" onclick="searchlog(1,0,0,48)"><li rel="0" class="curr">所有品牌<b></b></li><li rel="p">P<b></b></li></ul>				<div class="tabcon">
+					<div id="brand-14026" rel="p">
+						<a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=exbrand_%E8%8B%B9%E6%9E%9C%EF%BC%88Apple%EF%BC%89%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'品牌::苹果（Apple）',0)" title="苹果（Apple）">
+					苹果（Apple）						</a>
+										</div>
+				</div>
+				<div class="s-brands">
+					<div class="dt">已选品牌：</div>
+					<div class="dd selected"></div>
+				</div>
+			</div>
+			<div class="v-btns">
+				<a href="javascript:;" class="btn-red disabled">确定</a>
+				<a href="javascript:;" class="btn-gray">取消</a>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="color-attr"><div class="attr"><div class="a-key">颜色：</div><div class="a-values"><div class="v-colors">
+				<a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=excolor_%E9%BB%91%E8%89%B2%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'颜色::黑色',0)" class="black" title="黑色"><span></span><b></b></a>
+				<a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=excolor_%E7%81%B0%E8%89%B2%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'颜色::灰色',1)" class="light-gray" title="灰色"><span></span><b></b></a>
+				<a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=excolor_%E7%99%BD%E8%89%B2%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'颜色::白色',2)" class="white" title="白色"><span></span><b></b></a>
+				<a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=excolor_%E9%BB%84%E8%89%B2%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'颜色::黄色',3)" class="yellow" title="黄色"><span></span><b></b></a>
+			</div>
+			<div class="v-option">
+				<span class="o-more hide"><b></b>更多</span>
+				<span class="o-multiple"><b></b>多选</span>
+			</div>
+			<div class="v-btns">
+				<a href="javascript:;" class="btn-red disabled">确定</a>
+				<a href="javascript:;" class="btn-gray">取消</a>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="prop-attrs">
+	<div class="attr" id="select-price">
+		<div class="a-key">价格：</div>
+		<div class="a-values">
+			<div class="v-fold">
+				<ul class="f-list">
+					<li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=exprice_0-3499%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'价格::0-3499',0)">0-3499</a></li>
+					<li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=exprice_3500-3899%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'价格::3500-3899',1)">3500-3899</a></li>
+					<li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=exprice_3900-4999%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'价格::3900-4999',2)">3900-4999</a></li>
+					<li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=exprice_5000-5799%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'价格::5000-5799',3)">5000-5799</a></li>
+					<li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=exprice_5800-6399%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'价格::5800-6399',4)">5800-6399</a></li>
+					<li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=exprice_6400-7099%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'价格::6400-7099',5)">6400-7099</a></li>
+					<li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=exprice_7100gt%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'价格::7100以上',6)">7100以上</a></li>
+				</ul>
+				<div class="pr">
+					<input type="text" class="price-range" title="最低价" value="" autocomplete="off" /><i></i><input type="text" class="price-range" title="最高价" value="" autocomplete="off" /><a url="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=exprice_min-max%40&uc=0#select" class="btn-price-range btn-gray">确定</a>
+				</div>
+			</div>
+			<div class="v-btns">
+				<a href="javascript:;" class="btn-red disabled">确定</a>
+				<a href="javascript:;" class="btn-gray">取消</a>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="prop-attrs"><div class="attr"><div class="a-key">网络：</div><div class="a-values"><div class="v-fold"><ul class="f-list"><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=398_104116%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'网络::移动4G',0)">移动4G</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=398_5500%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'网络::联通4G',1)">联通4G</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=398_558860%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'网络::电信4G',2)">电信4G</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=398_1463%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'网络::移动3G',3)">移动3G</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=398_1269%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'网络::联通3G',4)">联通3G</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=398_1285%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'网络::电信3G',5)">电信3G</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=398_1449%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'网络::移动2G\/联通2G',6)">移动2G/联通2G</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=398_1282%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'网络::电信2G',7)">电信2G</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=398_2953%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'网络::其它',8)">其它</a></li></ul></div>
+					<div class="v-option">
+						<span class="o-more hide"><b></b>更多</span>
+						<span class="o-multiple"><b></b>多选</span>
+					</div>
+					<div class="v-btns">
+						<a href="javascript:;" class="btn-red disabled">确定</a>
+						<a href="javascript:;" class="btn-gray">取消</a>
+					</div>
+				</div>
+			</div></div><div class="prop-attrs"><div class="attr"><div class="a-key">热点：</div><div class="a-values"><div class="v-fold"><ul class="f-list"><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=1943_13765%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'热点::拍照神器',0)">拍照神器</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=1943_59753%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'热点::合约机',1)">合约机</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=1943_502864%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'热点::1080P屏',2)">1080P屏</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=1943_582012%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'热点::超薄7mm以下',3)">超薄7mm以下</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=1943_502868%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'热点::支持NFC',4)">支持NFC</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=1943_13762%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'热点::游戏手机',5)">游戏手机</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=1943_13761%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'热点::音乐手机',6)">音乐手机</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=1943_3%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'热点::其他',7)">其他</a></li></ul></div>
+					<div class="v-option">
+						<span class="o-more hide"><b></b>更多</span>
+						<span class="o-multiple"><b></b>多选</span>
+					</div>
+					<div class="v-btns">
+						<a href="javascript:;" class="btn-red disabled">确定</a>
+						<a href="javascript:;" class="btn-gray">取消</a>
+					</div>
+				</div>
+			</div></div><div class="prop-attrs"><div class="attr"><div class="a-key">屏幕尺寸：</div><div class="a-values"><div class="v-fold"><ul class="f-list"><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=508_104163%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'屏幕尺寸::5.5-5.1英寸',0)">5.5-5.1英寸</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=508_190298%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'屏幕尺寸::5.0-4.6英寸',1)">5.0-4.6英寸</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=508_104160%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'屏幕尺寸::4.5-3.1英寸',2)">4.5-3.1英寸</a></li></ul></div>
+					<div class="v-option">
+						<span class="o-more hide"><b></b>更多</span>
+						<span class="o-multiple"><b></b>多选</span>
+					</div>
+					<div class="v-btns">
+						<a href="javascript:;" class="btn-red disabled">确定</a>
+						<a href="javascript:;" class="btn-gray">取消</a>
+					</div>
+				</div>
+			</div></div><div class="prop-attrs"><div class="attr"><div class="a-key">机身颜色：</div><div class="a-values"><div class="v-fold"><ul class="f-list"><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=77055_29520%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'机身颜色::白色',0)">白色</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=77055_10010%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'机身颜色::黑色',1)">黑色</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=77055_92588%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'机身颜色::灰色',2)">灰色</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=77055_77009%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'机身颜色::金色',3)">金色</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=77055_54201%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'机身颜色::银色',4)">银色</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=77055_54203%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'机身颜色::粉色',5)">粉色</a></li></ul></div>
+					<div class="v-option">
+						<span class="o-more hide"><b></b>更多</span>
+						<span class="o-multiple"><b></b>多选</span>
+					</div>
+					<div class="v-btns">
+						<a href="javascript:;" class="btn-red disabled">确定</a>
+						<a href="javascript:;" class="btn-gray">取消</a>
+					</div>
+				</div>
+			</div></div><div class="prop-attrs"><div class="attr"><div class="a-key">购买方式：</div><div class="a-values"><div class="v-fold"><ul class="f-list"><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=93850_586936%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'购买方式::移动合约',0)">移动合约</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=93850_586938%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'购买方式::电信合约',1)">电信合约</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=93850_3%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'购买方式::其他',2)">其他</a></li></ul></div>
+					<div class="v-option">
+						<span class="o-more hide"><b></b>更多</span>
+						<span class="o-multiple"><b></b>多选</span>
+					</div>
+					<div class="v-btns">
+						<a href="javascript:;" class="btn-red disabled">确定</a>
+						<a href="javascript:;" class="btn-gray">取消</a>
+					</div>
+				</div>
+			</div></div><div class="prop-attrs"><div class="attr"><div class="a-key">手机制式：</div><div class="a-values"><div class="v-fold"><ul class="f-list"><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=11110_104116%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'手机制式::移动4G',0)">移动4G</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=11110_1269%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'手机制式::联通3G',1)">联通3G</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=11110_1285%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'手机制式::电信3G',2)">电信3G</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=11110_1463%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'手机制式::移动3G',3)">移动3G</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=11110_1449%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'手机制式::移动2G\/联通2G',4)">移动2G/联通2G</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=11110_1282%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'手机制式::电信2G',5)">电信2G</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=11110_5500%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'手机制式::联通4G',6)">联通4G</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=11110_558860%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'手机制式::电信4G',7)">电信4G</a></li></ul></div>
+					<div class="v-option">
+						<span class="o-more hide"><b></b>更多</span>
+						<span class="o-multiple"><b></b>多选</span>
+					</div>
+					<div class="v-btns">
+						<a href="javascript:;" class="btn-red disabled">确定</a>
+						<a href="javascript:;" class="btn-gray">取消</a>
+					</div>
+				</div>
+			</div></div><div class="prop-attrs"><div class="attr"><div class="a-key">运营商：</div><div class="a-values"><div class="v-fold"><ul class="f-list"><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=1822_583207%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'运营商::联通合约机',0)">联通合约机</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=1822_583208%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'运营商::电信合约机',1)">电信合约机</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=1822_583209%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'运营商::移动合约机',2)">移动合约机</a></li></ul></div>
+					<div class="v-option">
+						<span class="o-more hide"><b></b>更多</span>
+						<span class="o-multiple"><b></b>多选</span>
+					</div>
+					<div class="v-btns">
+						<a href="javascript:;" class="btn-red disabled">确定</a>
+						<a href="javascript:;" class="btn-gray">取消</a>
+					</div>
+				</div>
+			</div></div><div class="prop-attrs"><div class="attr"><div class="a-key">优惠活动：</div><div class="a-values"><div class="v-fold"><ul class="f-list"><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=93946_583094%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'优惠活动::购手机送话费',0)">购手机送话费</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=93946_583096%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'优惠活动::0元购机',1)">0元购机</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=93946_583097%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'优惠活动::老用户优惠购机',2)">老用户优惠购机</a></li></ul></div>
+					<div class="v-option">
+						<span class="o-more hide"><b></b>更多</span>
+						<span class="o-multiple"><b></b>多选</span>
+					</div>
+					<div class="v-btns">
+						<a href="javascript:;" class="btn-red disabled">确定</a>
+						<a href="javascript:;" class="btn-gray">取消</a>
+					</div>
+				</div>
+			</div></div><div class="prop-attrs"><div class="attr"><div class="a-key">大家说：</div><div class="a-values"><div class="v-fold"><ul class="f-list"><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=536870917_536896987%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'大家说::屏幕大',0)">屏幕大</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=536870917_536896183%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'大家说::待机时间长',1)">待机时间长</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=536870917_536895498%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'大家说::电池耐用',2)">电池耐用</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=536870917_536899531%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'大家说::照相不错',3)">照相不错</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=536870917_536897166%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'大家说::反应快',4)">反应快</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=536870917_536895285%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'大家说::外观不错',5)">外观不错</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=536870917_536899534%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'大家说::系统流畅',6)">系统流畅</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=536870917_536896989%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'大家说::字体大',7)">字体大</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=536870917_536899536%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'大家说::后盖很漂亮',8)">后盖很漂亮</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=536870917_536899537%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'大家说::软件也不错',9)">软件也不错</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=536870917_536908523%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'大家说::功能齐全',10)">功能齐全</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=536870917_536899127%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'大家说::分辨率高',11)">分辨率高</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=536870917_536897660%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'大家说::声音很大',12)">声音很大</a></li><li><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&ev=536870917_536895190%40&uc=0#select" rel="nofollow" onclick="MS.attr_click(this,'大家说::价格便宜',13)">价格便宜</a></li></ul></div>
+					<div class="v-option">
+						<span class="o-more hide"><b></b>更多</span>
+						<span class="o-multiple"><b></b>多选</span>
+					</div>
+					<div class="v-btns">
+						<a href="javascript:;" class="btn-red disabled">确定</a>
+						<a href="javascript:;" class="btn-gray">取消</a>
+					</div>
+				</div>
+			</div></div>	<div class="clr"></div>
+</div>
+<div class="mb" id="advanced">
+	<div class="attr-extra"><div>更多选项<b></b></div></div>
+</div>
+</div>
+<script>
+(function(t,$){var e=$("#select>.attrs").children().not(".clr,.selected-c"),p=size_index=-1,o=4,n=true;
+for(var m=0,g=e.length;m<g;m++){if(p>-1&&size_index>-1){break}var a=$.trim($(e[m]).find("div.a-key").text());if(a=="大家说："){p=m}else{if(a=="尺码："){size_index=m}}}
+if(size_index>-1||p>-1){e.eq(p).insertAfter(e.eq(size_index>-1?o-1:o-2));var m=p>-1?o:o+1,d=e.eq(size_index);if(m>=g-1){d.insertAfter(e.eq(g-1))}else{d.insertBefore(e.eq(m))}e=$("#select>.attrs").children().not(".clr,.selected-c")}
+function r(j,u){var v={};v.i="1431447178.30500";v.h="653,6880";v.k="苹果手机";v.c="";v.m="529850b298b3c168a0320234180ab849";
+var k=[];$("#select").find(".selected-c li a").each(function(){k.push($(this).text().replace(/：[\s\S]+/,"::")+$(this).attr('title').replace(/、/g,"||"))});v.s=k.join(";;")+(k.length?";;":"");
+var s=[];for(var x=j;x<u;x++){var w=e.eq(x),y=w.find(".a-key").text().replace("：","::"),l=[];if(y=="品牌::"){w.find(".tabcon div").each(function(){l.push(this.id.replace("brand-",""))})}else{if(y=="颜色::"){w.find(".v-colors a").each(function(){l.push($(this).attr("title"))})}else{w.find("ul.f-list a").each(function(){l.push($(this).text())})}}s.push(y+l.join(",,"))}v.u=s.join(";;")+(s.length?";;":"");$.post("attrlog.php",v,function(){})}
+if(g<=o){$("#advanced").css("margin-bottom","10px").children().hide();setTimeout(function(){r(0,g)},200);return}
+var f=$("#advanced>div"),b="";for(var m=o,c=Math.min(g,o+4);m<c;m++){b+=e.eq(m).find("div.a-key").text().replace("：","，")}b=b.substr(0,b.length-1);if(g>o+4){b+="等"}
+function q(){e.slice(o).hide();f.removeClass("open").html("<div>更多选项（"+b+"）<b></b></div>")}
+function h(){e.slice(o).show();f.addClass("open").html("<div>收起<b></b></div>")}
+f.click(function(){searchlog(1,0,0,23);f.hasClass("open")?q():h();if(n){try{t.bind_events.handle_more_multi(true),r(o,g)}catch(i){}n=false}});
+q(),setTimeout(function(){r(0,o)},500)})(SEARCH,$);
+SEARCH.brand_ids='14026_';
+</script><!--显示已选条件及属性-->
+<div class="clr"></div>
+<div id="filter" clstag="thirdtype|keycount|thirdtype|filter">
+	<div class="fore1">
+		<dl class="order">
+			<dt>排序：</dt>
+			<dd ><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=" onclick="searchlog(1,0,0,55)">综合排序</a><b></b></dd>
+			<dd ><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=3" onclick="searchlog(1,3,0,55)">销量</a><b></b></dd>
+			<dd class="price curr down"><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=2" onclick="searchlog(1,2,0,55)">价格</a><b></b></dd>
+			<dd ><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=4" onclick="searchlog(1,4,0,55)">评论数</a><b></b></dd>
+			<dd ><a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=5" onclick="searchlog(1,5,0,55)">新品</a><b></b></dd>
+		</dl>
+		<dl class="activity">
+			<dd>
+			</dd>
+		</dl>
+		<div class="pagin pagin-m" id="top_pagi">
+			<span class="text"><i>1</i>/1</span>
+			<span class="prev-disabled">上一页<b></b></span>
+			<span class="next-disabled">下一页<b></b></span>
+		</div>
+		<span class="clr"></span>
+	</div>
+	<div class="fore2 form">
+		<dl class="store">
+			<dt>配送至：</dt>
+			<dd id="store-selector">
+				<div class="text">全国<b></b></div>
+				<div class="content"></div>
+				<div class="close" onclick="$('#store-selector').removeClass('hover')"></div>
+			</dd>
+			<dd class="instock">
+				<div class="">
+					<a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&stock=1#filter" rel="nofollow" title="选择省份后可进行有货筛选" onclick="searchlog(1,0,0,41)"><b></b>仅显示有货</a>
+				</div>
+			</dd>
+		</dl>
+		<div class="type3" id="ware_type">
+			<div class="bd">
+				<a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&wtype=1#filter" rel="nofollow" class="" onclick="searchlog(1,0,0,43)"><b></b>京东配送</a>
+				<a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&cod=1&psort=1#filter" rel="nofollow" class="" onclick="searchlog(1,0,0,34)"><b></b>货到付款</a>
+			</div>
+		</div>
+		<dl class="stock-search">
+			<dt><input class="text-stock-search" id="text-stock-search" type="text" autocomplete="off" title="在结果中搜索" value="在结果中搜索" /></dt>
+			<dd><input class="btn-stock-search" id="btn-stock-search" type="button" url="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&exp_key=" value="确定" /></dd>
+		</dl>
+		<div class="list-cutover">
+			<a class="modfiy-url grid-unselected grid-curr" href="javascript:;" id="grid-unselected" onclick="searchlog(1,0,0,45)"><b></b>商品</a>
+			<a class="modfiy-url shop-unselected" href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&vt=3#filter" id="shop-unselected" rel="nofollow" onclick="searchlog(1,0,0,28)"><b></b>店铺</a>
+		</div>
+		<span class="clr"></span>
+	</div>
+</div>
+<div class="m psearch plist-n7 prebuy" id="plist">
+<div class="plist-msg">为方便您找到满意的商品，我们已为您省略部分不相关的商品，<a href="search?keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&psort=1&default_sort=1" onclick="searchlog(1,0,0,35)">查看更多商品&nbsp;&gt;</a></div><ul class="list-h clearfix" tpl="3"><li sku="1217539">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1217539.html" onclick="searchlog(1,1217539,0,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img14.360buyimg.com/n7/jfs/t328/148/1025125192/231745/50f20b36/542d0ddcN4dc579a0.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title="金色"><img data-skuid="1217539" data-lazyload="http://img14.360buyimg.com/n9/jfs/t328/148/1025125192/231745/50f20b36/542d0ddcN4dc579a0.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="银色"><img data-skuid="1217541" data-lazyload="http://img11.360buyimg.com/n9/jfs/t334/27/1021085168/224226/17bb17f0/542d11daN584735f0.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="深空灰"><img data-skuid="1217540" data-lazyload="http://img10.360buyimg.com/n9/jfs/t349/79/1020991515/223218/622f597c/542d1001N6d0cc21e.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="金色"><img data-skuid="1217528" data-lazyload="http://img13.360buyimg.com/n9/jfs/t358/284/720324651/231745/50f20b36/542d0d9aN47ea9c3a.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1217539.html" onclick="searchlog(1,1217539,0,1,'','flagsClk=136')">
+			<font class="skcolor_ljg">苹果</font>（Apple）iPhone 6 Plus (A1524) 128GB 金色 移动联通电信4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1217539'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1217539" data-price="7588.00">￥7588.00</strong>		<span id="p1217539"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1217539" target="_blank" href="http://item.jd.com/1217539.html#comments-list" onclick="searchlog(1,1217539,0,3,'','flagsClk=136')">已有2185人评价</a>
+		<span class="reputation" style="display:none;">(98%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1217539" data-stock-val="1" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1217539" onclick="searchlog(1,1217539,0,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1240282">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1240282.html" onclick="searchlog(1,1240282,1,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img12.360buyimg.com/n7/jfs/t289/294/1007942072/231745/50f20b36/542d0e92N0d620f82.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title="金色"><img data-skuid="1240282" data-lazyload="http://img12.360buyimg.com/n9/jfs/t289/294/1007942072/231745/50f20b36/542d0e92N0d620f82.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1240282.html" onclick="searchlog(1,1240282,1,1,'','flagsClk=136')">
+			【联通0元购机】<font class="skcolor_ljg">苹果</font>(Apple) iPhone 6 Plus (A1524) 64G 金色 移动联通电信4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1240282'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1240282" data-price="7099.00">￥7099.00</strong>		<span id="p1240282"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1240282" target="_blank" href="http://item.jd.com/1240282.html#comments-list" onclick="searchlog(1,1240282,1,3,'','flagsClk=136')">已有54人评价</a>
+		<span class="reputation" style="display:none;">(94%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1240282" data-stock-val="0" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1240282" onclick="searchlog(1,1240282,1,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1240281">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1240281.html" onclick="searchlog(1,1240281,2,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img11.360buyimg.com/n7/jfs/t394/36/702757608/224226/17bb17f0/542d1230N129cb551.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title="银色"><img data-skuid="1240281" data-lazyload="http://img11.360buyimg.com/n9/jfs/t394/36/702757608/224226/17bb17f0/542d1230N129cb551.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="银色"><img data-skuid="1240276" data-lazyload="http://img11.360buyimg.com/n9/jfs/t403/355/725700980/224226/17bb17f0/542d1267Nf9c46e8e.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="深空灰"><img data-skuid="1240278" data-lazyload="http://img13.360buyimg.com/n9/jfs/t295/150/1007436826/223218/622f597c/542d10a4N4f1da41d.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="金色"><img data-skuid="1240275" data-lazyload="http://img10.360buyimg.com/n9/jfs/t277/334/1023124897/231745/50f20b36/542d0e6eN4f204a5f.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1240281.html" onclick="searchlog(1,1240281,2,1,'','flagsClk=136')">
+			【联通0元购机】<font class="skcolor_ljg">苹果</font>(Apple) iPhone 6 Plus (A1524) 64G 银色 移动联通电信4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1240281'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1240281" data-price="7099.00">￥7099.00</strong>		<span id="p1240281"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1240281" target="_blank" href="http://item.jd.com/1240281.html#comments-list" onclick="searchlog(1,1240281,2,3,'','flagsClk=136')">已有28人评价</a>
+		<span class="reputation" style="display:none;">(100%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1240281" data-stock-val="0" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1240281" onclick="searchlog(1,1240281,2,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1445871">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1445871.html" onclick="searchlog(1,1445871,3,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img11.360buyimg.com/n7/jfs/t271/215/1028027627/231745/50f20b36/542d0e0aNc009b9a7.jpg" />
+		</a>
+		<div class="picon pi11"><b></b></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title="金色"><img data-skuid="1445871" data-lazyload="http://img11.360buyimg.com/n9/jfs/t271/215/1028027627/231745/50f20b36/542d0e0aNc009b9a7.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="银色"><img data-skuid="1445835" data-lazyload="http://img10.360buyimg.com/n9/jfs/t289/25/1019232635/224226/17bb17f0/542d11f8Nfbb76486.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="深空灰"><img data-skuid="1445854" data-lazyload="http://img14.360buyimg.com/n9/jfs/t301/18/1009423003/223218/622f597c/542d101fN1cab2c9e.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="金色"><img data-skuid="1439716" data-lazyload="http://img11.360buyimg.com/n9/jfs/t346/302/1010969394/231745/50f20b36/542d0e26N894372e9.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1445871.html" onclick="searchlog(1,1445871,3,1,'','flagsClk=136')">
+			【广东移动购机送费】<font class="skcolor_ljg">苹果</font>（Apple）iPhone 6 Plus (A1524) 64GB 金色 移动联通电信4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1445871'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1445871" data-price="6788.00">￥6788.00</strong>		<span id="p1445871"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1445871" target="_blank" href="http://item.jd.com/1445871.html#comments-list" onclick="searchlog(1,1445871,3,3,'','flagsClk=136')">已有0人评价</a>
+		<span class="reputation" style="display:none;">(0%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1445871" data-stock-val="0" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1445871" onclick="searchlog(1,1445871,3,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1546301">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1546301.html" onclick="searchlog(1,1546301,4,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img11.360buyimg.com/n7/jfs/t280/202/1019167704/223218/622f597c/542d10f5N856a43fd.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title="深空灰"><img data-skuid="1546301" data-lazyload="http://img11.360buyimg.com/n9/jfs/t280/202/1019167704/223218/622f597c/542d10f5N856a43fd.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="金色"><img data-skuid="1546296" data-lazyload="http://img11.360buyimg.com/n9/jfs/t322/239/1011302453/231745/50f20b36/542d0f04Nae11119d.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="银色"><img data-skuid="1546294" data-lazyload="http://img14.360buyimg.com/n9/jfs/t313/14/1482794330/224226/17bb17f0/543bcb88Nce66590a.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="深空灰"><img data-skuid="1546307" data-lazyload="http://img12.360buyimg.com/n9/jfs/t337/194/1043950618/223218/622f597c/542d10d6N98382c51.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1546301.html" onclick="searchlog(1,1546301,4,1,'','flagsClk=136')">
+			【全网通赠费版】<font class="skcolor_ljg">苹果</font>(Apple) iPhone 6 Plus (A1524) 64G 深空灰 移动联通电信4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1546301'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1546301" data-price="6788.00">￥6788.00</strong>		<span id="p1546301"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1546301" target="_blank" href="http://item.jd.com/1546301.html#comments-list" onclick="searchlog(1,1546301,4,3,'','flagsClk=136')">已有0人评价</a>
+		<span class="reputation" style="display:none;">(0%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1546301" data-stock-val="0" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1546301" onclick="searchlog(1,1546301,4,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1324445">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1324445.html" onclick="searchlog(1,1324445,5,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img10.360buyimg.com/n7/jfs/t289/25/1019232635/224226/17bb17f0/542d11f8Nfbb76486.jpg" />
+		</a>
+		<div class="picon pi11"><b></b></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title="银色"><img data-skuid="1324445" data-lazyload="http://img10.360buyimg.com/n9/jfs/t289/25/1019232635/224226/17bb17f0/542d11f8Nfbb76486.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="深空灰"><img data-skuid="1324592" data-lazyload="http://img12.360buyimg.com/n9/jfs/t301/18/1009423003/223218/622f597c/542d101fN1cab2c9e.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="金色"><img data-skuid="1324594" data-lazyload="http://img14.360buyimg.com/n9/jfs/t346/302/1010969394/231745/50f20b36/542d0e26N894372e9.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="银色"><img data-skuid="1324593" data-lazyload="http://img13.360buyimg.com/n9/jfs/t319/119/1020978824/224226/17bb17f0/542d1218Nf9509ee4.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1324445.html" onclick="searchlog(1,1324445,5,1,'','flagsClk=136')">
+			【北京移动购机赠费】<font class="skcolor_ljg">苹果</font>（Apple）iPhone 6 Plus (A1524) 64GB 银色 移动4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1324445'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1324445" data-price="6688.00">￥6688.00</strong>		<span id="p1324445"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1324445" target="_blank" href="http://item.jd.com/1324445.html#comments-list" onclick="searchlog(1,1324445,5,3,'','flagsClk=136')">已有44人评价</a>
+		<span class="reputation" style="display:none;">(98%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1324445" data-stock-val="0" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1324445" onclick="searchlog(1,1324445,5,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1274215">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1274215.html" onclick="searchlog(1,1274215,6,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img10.360buyimg.com/n7/jfs/t325/285/995077072/223218/622f597c/542d0fc9N74c0d150.jpg" />
+		</a>
+		<div class="picon pi11"><b></b></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title="深空灰"><img data-skuid="1274215" data-lazyload="http://img10.360buyimg.com/n9/jfs/t325/285/995077072/223218/622f597c/542d0fc9N74c0d150.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="金"><img data-skuid="1274219" data-lazyload="http://img14.360buyimg.com/n9/jfs/t358/284/720324651/231745/50f20b36/542d0d9aN47ea9c3a.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="银"><img data-skuid="1274214" data-lazyload="http://img14.360buyimg.com/n9/jfs/t439/171/713301717/224226/17bb17f0/542d11a1Nd942105f.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1274215.html" onclick="searchlog(1,1274215,6,1,'','flagsClk=136')">
+			【北京移动购机赠费】<font class="skcolor_ljg">苹果</font>（APPLE）iPhone 6 Plus A1593 64G版 移动4G<font class="skcolor_ljg">手机</font> 深空灰<font style='color:#ff0000' class='adwords' id='AD_1274215'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1274215" data-price="6666.00">￥6666.00</strong>		<span id="p1274215"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1274215" target="_blank" href="http://item.jd.com/1274215.html#comments-list" onclick="searchlog(1,1274215,6,3,'','flagsClk=136')">已有26人评价</a>
+		<span class="reputation" style="display:none;">(100%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1274215" data-stock-val="0" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1274215" onclick="searchlog(1,1274215,6,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1329243">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1329243.html" onclick="searchlog(1,1329243,7,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img13.360buyimg.com/n7/jfs/t358/284/720324651/231745/50f20b36/542d0d9aN47ea9c3a.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title=""><img data-skuid="1329243" data-lazyload="http://img13.360buyimg.com/n9/jfs/t358/284/720324651/231745/50f20b36/542d0d9aN47ea9c3a.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1329243.html" onclick="searchlog(1,1329243,7,1,'','flagsClk=136')">
+			【购机送费】<font class="skcolor_ljg">苹果</font>（Apple）iPhone 6 Plus (A1593) 64GB 金色 移动4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1329243'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1329243" data-price="6588.00">￥6588.00</strong>		<span id="p1329243"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1329243" target="_blank" href="http://item.jd.com/1329243.html#comments-list" onclick="searchlog(1,1329243,7,3,'','flagsClk=136')">已有15人评价</a>
+		<span class="reputation" style="display:none;">(100%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1329243" data-stock-val="0" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1329243" onclick="searchlog(1,1329243,7,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1217513">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1217513.html" onclick="searchlog(1,1217513,8,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img13.360buyimg.com/n7/jfs/t439/181/729856953/218894/71d9660f/542d0980N1e51b446.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title="深空灰"><img data-skuid="1217513" data-lazyload="http://img13.360buyimg.com/n9/jfs/t439/181/729856953/218894/71d9660f/542d0980N1e51b446.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="银色"><img data-skuid="1217518" data-lazyload="http://img13.360buyimg.com/n9/jfs/t319/79/1033447267/218689/e78082ad/542d0c01N438ad832.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="深空灰"><img data-skuid="1217517" data-lazyload="http://img12.360buyimg.com/n9/jfs/t352/103/1001635473/218894/71d9660f/542d09d5N1aba74fb.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="金色"><img data-skuid="1217516" data-lazyload="http://img11.360buyimg.com/n9/jfs/t418/6/704088785/768456/29136988/542d071bN0896bfa9.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1217513.html" onclick="searchlog(1,1217513,8,1,'','flagsClk=136')">
+			<font class="skcolor_ljg">苹果</font>（Apple）iPhone 6 (A1589) 128GB 深空灰色 移动4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1217513'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1217513" data-price="6588.00">￥6588.00</strong>		<span id="p1217513"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1217513" target="_blank" href="http://item.jd.com/1217513.html#comments-list" onclick="searchlog(1,1217513,8,3,'','flagsClk=136')">已有190人评价</a>
+		<span class="reputation" style="display:none;">(97%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1217513" data-stock-val="0" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1217513" onclick="searchlog(1,1217513,8,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1240277">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1240277.html" onclick="searchlog(1,1240277,9,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img12.360buyimg.com/n7/jfs/t277/340/1041817308/768456/29136988/542d081bNfb6cfe45.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title="金色"><img data-skuid="1240277" data-lazyload="http://img12.360buyimg.com/n9/jfs/t277/340/1041817308/768456/29136988/542d081bNfb6cfe45.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="银色"><img data-skuid="1241171" data-lazyload="http://img11.360buyimg.com/n9/jfs/t298/199/1003782317/218689/e78082ad/542d0c68Na2c3b938.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="金色"><img data-skuid="1240268" data-lazyload="http://img13.360buyimg.com/n9/jfs/t331/294/1000754660/768456/29136988/542d07f5Ne9b365a7.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="深空灰"><img data-skuid="1240265" data-lazyload="http://img10.360buyimg.com/n9/jfs/t352/223/991728806/218894/71d9660f/542d0a4aN423814aa.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1240277.html" onclick="searchlog(1,1240277,9,1,'','flagsClk=136')">
+			【联通0元购机】<font class="skcolor_ljg">苹果</font>(Apple) iPhone 6 (A1586) 64G 金色 移动联通电信4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1240277'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1240277" data-price="6299.00">￥6299.00</strong>		<span id="p1240277"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1240277" target="_blank" href="http://item.jd.com/1240277.html#comments-list" onclick="searchlog(1,1240277,9,3,'','flagsClk=136')">已有38人评价</a>
+		<span class="reputation" style="display:none;">(92%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1240277" data-stock-val="1" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1240277" onclick="searchlog(1,1240277,9,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1240290">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1240290.html" onclick="searchlog(1,1240290,10,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img10.360buyimg.com/n7/jfs/t349/23/1040011121/218894/71d9660f/542d0a67Nc7f6a082.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title="深空灰"><img data-skuid="1240290" data-lazyload="http://img10.360buyimg.com/n9/jfs/t349/23/1040011121/218894/71d9660f/542d0a67Nc7f6a082.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1240290.html" onclick="searchlog(1,1240290,10,1,'','flagsClk=136')">
+			【联通0元购机】<font class="skcolor_ljg">苹果</font>(Apple) iPhone 6 (A1586) 64G 深空灰 移动联通电信4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1240290'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1240290" data-price="6299.00">￥6299.00</strong>		<span id="p1240290"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1240290" target="_blank" href="http://item.jd.com/1240290.html#comments-list" onclick="searchlog(1,1240290,10,3,'','flagsClk=136')">已有0人评价</a>
+		<span class="reputation" style="display:none;">(100%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1240290" data-stock-val="1" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1240290" onclick="searchlog(1,1240290,10,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1329124">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1329124.html" onclick="searchlog(1,1329124,11,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img14.360buyimg.com/n7/jfs/t547/36/1202629987/69464/712985a7/54be0aa0N7fdcd5a9.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title=""><img data-skuid="1329124" data-lazyload="http://img14.360buyimg.com/n9/jfs/t547/36/1202629987/69464/712985a7/54be0aa0N7fdcd5a9.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1329124.html" onclick="searchlog(1,1329124,11,1,'','flagsClk=136')">
+			<font class="skcolor_ljg">苹果</font>（Apple）iPhone 6 Plus (A1524) 16GB 深空灰色 移动联通电信4G<font class="skcolor_ljg">手机</font>（壳膜套装版）<font style='color:#ff0000' class='adwords' id='AD_1329124'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1329124" data-price="5847.00">￥5847.00</strong>		<span id="p1329124"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1329124" target="_blank" href="http://item.jd.com/1329124.html#comments-list" onclick="searchlog(1,1329124,11,3,'','flagsClk=136')">已有1689人评价</a>
+		<span class="reputation" style="display:none;">(96%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1329124" data-stock-val="1" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1329124" onclick="searchlog(1,1329124,11,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1260292">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1260292.html" onclick="searchlog(1,1260292,12,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img12.360buyimg.com/n7/jfs/t439/161/775215647/218689/e78082ad/542d0bc9N1eaf8446.jpg" />
+		</a>
+		<div class="picon pi11"><b></b></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title="银色"><img data-skuid="1260292" data-lazyload="http://img12.360buyimg.com/n9/jfs/t439/161/775215647/218689/e78082ad/542d0bc9N1eaf8446.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1260292.html" onclick="searchlog(1,1260292,12,1,'','flagsClk=136')">
+			【广东移动购机送费】<font class="skcolor_ljg">苹果</font>（Apple）iPhone 6 (A1589) 64GB 银色 移动4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1260292'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1260292" data-price="5799.00">￥5799.00</strong>		<span id="p1260292"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1260292" target="_blank" href="http://item.jd.com/1260292.html#comments-list" onclick="searchlog(1,1260292,12,3,'','flagsClk=136')">已有6人评价</a>
+		<span class="reputation" style="display:none;">(100%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1260292" data-stock-val="0" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1260292" onclick="searchlog(1,1260292,12,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1324600">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1324600.html" onclick="searchlog(1,1324600,13,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img10.360buyimg.com/n7/jfs/t310/116/1013574023/768456/29136988/542d0771N8be574d8.jpg" />
+		</a>
+		<div class="picon pi11"><b></b></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title="金色"><img data-skuid="1324600" data-lazyload="http://img10.360buyimg.com/n9/jfs/t310/116/1013574023/768456/29136988/542d0771N8be574d8.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="银色"><img data-skuid="1324597" data-lazyload="http://img12.360buyimg.com/n9/jfs/t358/299/708998958/218689/e78082ad/542d0c34Ne78bf170.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="深空灰"><img data-skuid="1324601" data-lazyload="http://img11.360buyimg.com/n9/jfs/t349/287/1043056071/218894/71d9660f/542d0a16N96ed82b6.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="金色"><img data-skuid="1324588" data-lazyload="http://img13.360buyimg.com/n9/jfs/t277/193/1005339798/768456/29136988/542d0798N19d42ce3.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1324600.html" onclick="searchlog(1,1324600,13,1,'','flagsClk=136')">
+			【北京移动购机赠费】<font class="skcolor_ljg">苹果</font>（Apple）iPhone 6 (A1586) 64GB 金色 移动4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1324600'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1324600" data-price="5788.00">￥5788.00</strong>		<span id="p1324600"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1324600" target="_blank" href="http://item.jd.com/1324600.html#comments-list" onclick="searchlog(1,1324600,13,3,'','flagsClk=136')">已有44人评价</a>
+		<span class="reputation" style="display:none;">(96%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1324600" data-stock-val="0" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1324600" onclick="searchlog(1,1324600,13,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1329236">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1329236.html" onclick="searchlog(1,1329236,14,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img11.360buyimg.com/n7/jfs/t439/161/775215647/218689/e78082ad/542d0bc9N1eaf8446.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title=""><img data-skuid="1329236" data-lazyload="http://img11.360buyimg.com/n9/jfs/t439/161/775215647/218689/e78082ad/542d0bc9N1eaf8446.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1329236.html" onclick="searchlog(1,1329236,14,1,'','flagsClk=136')">
+			【上海移动购机赠费】<font class="skcolor_ljg">苹果</font>（Apple）iPhone 6 (A1589) 64GB 银色 移动4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1329236'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1329236" data-price="5788.00">￥5788.00</strong>		<span id="p1329236"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1329236" target="_blank" href="http://item.jd.com/1329236.html#comments-list" onclick="searchlog(1,1329236,14,3,'','flagsClk=136')">已有15人评价</a>
+		<span class="reputation" style="display:none;">(100%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1329236" data-stock-val="0" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1329236" onclick="searchlog(1,1329236,14,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1260447">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1260447.html" onclick="searchlog(1,1260447,15,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img12.360buyimg.com/n7/jfs/t298/243/1034602018/768456/29136988/542d06a0Ndb2a91f9.jpg" />
+		</a>
+		<div class="picon pi11"><b></b></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title="金色"><img data-skuid="1260447" data-lazyload="http://img12.360buyimg.com/n9/jfs/t298/243/1034602018/768456/29136988/542d06a0Ndb2a91f9.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="银色"><img data-skuid="1247724" data-lazyload="http://img14.360buyimg.com/n9/jfs/t334/8/1013553856/218689/e78082ad/542d0be6N38b4b449.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="金色"><img data-skuid="1247739" data-lazyload="http://img14.360buyimg.com/n9/jfs/t286/271/995842399/768456/29136988/542d06c5N4289e325.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1260447.html" onclick="searchlog(1,1260447,15,1,'','flagsClk=136')">
+			【北京移动购机赠费】<font class="skcolor_ljg">苹果</font>（APPLE）iPhone 6 A1589 64G版 移动4G<font class="skcolor_ljg">手机</font> 金色<font style='color:#ff0000' class='adwords' id='AD_1260447'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1260447" data-price="5768.00">￥5768.00</strong>		<span id="p1260447"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1260447" target="_blank" href="http://item.jd.com/1260447.html#comments-list" onclick="searchlog(1,1260447,15,3,'','flagsClk=136')">已有91人评价</a>
+		<span class="reputation" style="display:none;">(98%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1260447" data-stock-val="0" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1260447" onclick="searchlog(1,1260447,15,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1329225">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1329225.html" onclick="searchlog(1,1329225,16,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img10.360buyimg.com/n7/jfs/t298/243/1034602018/768456/29136988/542d06a0Ndb2a91f9.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title=""><img data-skuid="1329225" data-lazyload="http://img10.360buyimg.com/n9/jfs/t298/243/1034602018/768456/29136988/542d06a0Ndb2a91f9.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1329225.html" onclick="searchlog(1,1329225,16,1,'','flagsClk=136')">
+			【上海移动购机赠费】<font class="skcolor_ljg">苹果</font>（Apple）iPhone 6 (A1589) 64GB 金色 移动4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1329225'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1329225" data-price="5749.00">￥5749.00</strong>		<span id="p1329225"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1329225" target="_blank" href="http://item.jd.com/1329225.html#comments-list" onclick="searchlog(1,1329225,16,3,'','flagsClk=136')">已有52人评价</a>
+		<span class="reputation" style="display:none;">(100%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1329225" data-stock-val="0" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1329225" onclick="searchlog(1,1329225,16,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1280771">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1280771.html" onclick="searchlog(1,1280771,17,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img11.360buyimg.com/n7/jfs/t322/160/1011875875/224226/17bb17f0/542d11c0N1b83193e.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title=""><img data-skuid="1280771" data-lazyload="http://img11.360buyimg.com/n9/jfs/t322/160/1011875875/224226/17bb17f0/542d11c0N1b83193e.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1280771.html" onclick="searchlog(1,1280771,17,1,'','flagsClk=136')">
+			【上海移动购机赠费】<font class="skcolor_ljg">苹果</font>（Apple）iPhone 6 Plus (A1593) 16GB 银色 移动4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1280771'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1280771" data-price="5749.00">￥5749.00</strong>		<span id="p1280771"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1280771" target="_blank" href="http://item.jd.com/1280771.html#comments-list" onclick="searchlog(1,1280771,17,3,'','flagsClk=136')">已有20人评价</a>
+		<span class="reputation" style="display:none;">(90%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1280771" data-stock-val="0" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1280771" onclick="searchlog(1,1280771,17,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1450383343">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1450383343.html" onclick="searchlog(1,1450383343,18,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img13.360buyimg.com/n7/jfs/t1165/237/703244527/304207/f60808bf/553edc0fNd8d74640.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title="银色"><img data-skuid="1450383343" data-lazyload="http://img13.360buyimg.com/n9/jfs/t1165/237/703244527/304207/f60808bf/553edc0fNd8d74640.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1450383343.html" onclick="searchlog(1,1450383343,18,1,'','flagsClk=136')">
+			<font class="skcolor_ljg">苹果</font>iPhone 6 (A1586) （64GB）公开版移动联通电信 4G<font class="skcolor_ljg">手机</font> 银色<font style='color:#ff0000' class='adwords' id='AD_1450383343'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1450383343" data-price="5738.00">￥5738.00</strong>		<span id="p1450383343"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1450383343" target="_blank" href="http://item.jd.com/1450383343.html#comments-list" onclick="searchlog(1,1450383343,18,3,'','flagsClk=136')">已有4人评价</a>
+		<span class="reputation" style="display:none;">(100%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1450383343" data-stock-val="0" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1450383343" onclick="searchlog(1,1450383343,18,5,'','flagsClk=136')"><s></s>加关注</a></div>
+	<div class="shop-name" data-selfware="0" shop_id="112448"></div>
+</div>
+</li>
+<li sku="1280768">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1280768.html" onclick="searchlog(1,1280768,19,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img13.360buyimg.com/n7/jfs/t280/122/989753424/231745/50f20b36/542d0dbaN7b958ec0.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title=""><img data-skuid="1280768" data-lazyload="http://img13.360buyimg.com/n9/jfs/t280/122/989753424/231745/50f20b36/542d0dbaN7b958ec0.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1280768.html" onclick="searchlog(1,1280768,19,1,'','flagsClk=136')">
+			【购机送费】<font class="skcolor_ljg">苹果</font>（Apple）iPhone 6 Plus (A1593) 16GB 金色 移动4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1280768'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1280768" data-price="5699.00">￥5699.00</strong>		<span id="p1280768"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1280768" target="_blank" href="http://item.jd.com/1280768.html#comments-list" onclick="searchlog(1,1280768,19,3,'','flagsClk=136')">已有34人评价</a>
+		<span class="reputation" style="display:none;">(91%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1280768" data-stock-val="0" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1280768" onclick="searchlog(1,1280768,19,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1262592">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1262592.html" onclick="searchlog(1,1262592,20,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img12.360buyimg.com/n7/jfs/t286/271/995842399/768456/29136988/542d06c5N4289e325.jpg" />
+		</a>
+		<div class="picon pi11"><b></b></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title=""><img data-skuid="1262592" data-lazyload="http://img12.360buyimg.com/n9/jfs/t286/271/995842399/768456/29136988/542d06c5N4289e325.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1262592.html" onclick="searchlog(1,1262592,20,1,'','flagsClk=136')">
+			【广东移动购机送费】<font class="skcolor_ljg">苹果</font>（Apple）iPhone 6 (A1589) 16GB 金色 移动4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1262592'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1262592" data-price="4969.00">￥4969.00</strong>		<span id="p1262592"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h1">&nbsp;</span></span></span>
+		<a id="comment-1262592" target="_blank" href="http://item.jd.com/1262592.html#comments-list" onclick="searchlog(1,1262592,20,3,'','flagsClk=136')">已有1人评价</a>
+		<span class="reputation" style="display:none;">(0%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1262592" data-stock-val="0" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1262592" onclick="searchlog(1,1262592,20,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1446793231">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1446793231.html" onclick="searchlog(1,1446793231,21,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img11.360buyimg.com/n7/jfs/t1165/237/703244527/304207/f60808bf/553edc0fNd8d74640.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title="银色"><img data-skuid="1446793231" data-lazyload="http://img11.360buyimg.com/n9/jfs/t1165/237/703244527/304207/f60808bf/553edc0fNd8d74640.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1446793231.html" onclick="searchlog(1,1446793231,21,1,'','flagsClk=136')">
+			<font class="skcolor_ljg">苹果</font>（Apple）iPhone 6 (A1586) 16GB 银色 移动联通电信4G<font class="skcolor_ljg">手机</font> 银色<font style='color:#ff0000' class='adwords' id='AD_1446793231'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1446793231" data-price="4938.00">￥4938.00</strong>		<span id="p1446793231"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1446793231" target="_blank" href="http://item.jd.com/1446793231.html#comments-list" onclick="searchlog(1,1446793231,21,3,'','flagsClk=136')">已有13人评价</a>
+		<span class="reputation" style="display:none;">(92%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1446793231" data-stock-val="0" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1446793231" onclick="searchlog(1,1446793231,21,5,'','flagsClk=136')"><s></s>加关注</a></div>
+	<div class="shop-name" data-selfware="0" shop_id="112448"></div>
+</div>
+</li>
+<li sku="1280755">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1280755.html" onclick="searchlog(1,1280755,22,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img10.360buyimg.com/n7/jfs/t334/8/1013553856/218689/e78082ad/542d0be6N38b4b449.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title=""><img data-skuid="1280755" data-lazyload="http://img10.360buyimg.com/n9/jfs/t334/8/1013553856/218689/e78082ad/542d0be6N38b4b449.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1280755.html" onclick="searchlog(1,1280755,22,1,'','flagsClk=136')">
+			【购机送费】<font class="skcolor_ljg">苹果</font>（Apple）iPhone 6 (A1589) 16GB 银色 移动4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1280755'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1280755" data-price="4899.00">￥4899.00</strong>		<span id="p1280755"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1280755" target="_blank" href="http://item.jd.com/1280755.html#comments-list" onclick="searchlog(1,1280755,22,3,'','flagsClk=136')">已有38人评价</a>
+		<span class="reputation" style="display:none;">(95%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1280755" data-stock-val="0" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1280755" onclick="searchlog(1,1280755,22,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1057737">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1057737.html" onclick="searchlog(1,1057737,23,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img12.360buyimg.com/n7/g13/M09/0B/05/rBEhVFIxaGkIAAAAAAGEV0SZGCMAADEsQOGrOkAAYRv640.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title="金"><img data-skuid="1057737" data-lazyload="http://img12.360buyimg.com/n9/g13/M09/0B/05/rBEhVFIxaGkIAAAAAAGEV0SZGCMAADEsQOGrOkAAYRv640.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="金"><img data-skuid="975641" data-lazyload="http://img11.360buyimg.com/n9/g13/M09/0B/05/rBEhVFIxaGkIAAAAAAGEV0SZGCMAADEsQOGrOkAAYRv640.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="银"><img data-skuid="974401" data-lazyload="http://img11.360buyimg.com/n9/g13/M04/0B/05/rBEhUlIxZ_YIAAAAAAF5I4l8Mw8AADErgIijHsAAXk7281.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="深空灰"><img data-skuid="975642" data-lazyload="http://img12.360buyimg.com/n9/g14/M03/0F/1E/rBEhVVIxaDEIAAAAAAF-9Bmxq6gAADHQgOliMUAAX8M050.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1057737.html" onclick="searchlog(1,1057737,23,1,'','flagsClk=136')">
+			<font class="skcolor_ljg">苹果</font>(Apple) iPhone 5s (A1530) 32GB 金色 移动联通4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1057737'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1057737" data-price="4699.00">￥4699.00</strong>		<span id="p1057737"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1057737" target="_blank" href="http://item.jd.com/1057737.html#comments-list" onclick="searchlog(1,1057737,23,3,'','flagsClk=136')">已有2578人评价</a>
+		<span class="reputation" style="display:none;">(95%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1057737" data-stock-val="0" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1057737" onclick="searchlog(1,1057737,23,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1179403">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1179403.html" onclick="searchlog(1,1179403,24,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img13.360buyimg.com/n7/g13/M09/0B/05/rBEhVFIxaGkIAAAAAAGEV0SZGCMAADEsQOGrOkAAYRv640.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title=""><img data-skuid="1179403" data-lazyload="http://img13.360buyimg.com/n9/g13/M09/0B/05/rBEhVFIxaGkIAAAAAAGEV0SZGCMAADEsQOGrOkAAYRv640.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1179403.html" onclick="searchlog(1,1179403,24,1,'','flagsClk=136')">
+			【联通0元购机】<font class="skcolor_ljg">苹果</font>(Apple) iPhone 5s (A1530) 16G 金色 移动联通4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1179403'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1179403" data-price="3899.00">￥3899.00</strong>		<span id="p1179403"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1179403" target="_blank" href="http://item.jd.com/1179403.html#comments-list" onclick="searchlog(1,1179403,24,3,'','flagsClk=136')">已有53人评价</a>
+		<span class="reputation" style="display:none;">(90%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1179403" data-stock-val="1" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1179403" onclick="searchlog(1,1179403,24,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1279678">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1279678.html" onclick="searchlog(1,1279678,25,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img13.360buyimg.com/n7/g13/M04/0B/05/rBEhUlIxZ_YIAAAAAAF5I4l8Mw8AADErgIijHsAAXk7281.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title=""><img data-skuid="1279678" data-lazyload="http://img13.360buyimg.com/n9/g13/M04/0B/05/rBEhUlIxZ_YIAAAAAAF5I4l8Mw8AADErgIijHsAAXk7281.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1279678.html" onclick="searchlog(1,1279678,25,1,'','flagsClk=136')">
+			【联通0元购机】<font class="skcolor_ljg">苹果</font>(Apple) iPhone 5s (A1530) 16G 银色 移动联通4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1279678'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1279678" data-price="3899.00">￥3899.00</strong>		<span id="p1279678"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1279678" target="_blank" href="http://item.jd.com/1279678.html#comments-list" onclick="searchlog(1,1279678,25,3,'','flagsClk=136')">已有6人评价</a>
+		<span class="reputation" style="display:none;">(100%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1279678" data-stock-val="1" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1279678" onclick="searchlog(1,1279678,25,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1279655">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1279655.html" onclick="searchlog(1,1279655,26,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img10.360buyimg.com/n7/g14/M03/0F/1E/rBEhVVIxaDEIAAAAAAF-9Bmxq6gAADHQgOliMUAAX8M050.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title=""><img data-skuid="1279655" data-lazyload="http://img10.360buyimg.com/n9/g14/M03/0F/1E/rBEhVVIxaDEIAAAAAAF-9Bmxq6gAADHQgOliMUAAX8M050.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1279655.html" onclick="searchlog(1,1279655,26,1,'','flagsClk=136')">
+			【联通0元购机】<font class="skcolor_ljg">苹果</font>(Apple) iPhone 5s (A1530) 16G 深空灰 移动联通4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1279655'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1279655" data-price="3899.00">￥3899.00</strong>		<span id="p1279655"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1279655" target="_blank" href="http://item.jd.com/1279655.html#comments-list" onclick="searchlog(1,1279655,26,3,'','flagsClk=136')">已有0人评价</a>
+		<span class="reputation" style="display:none;">(100%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1279655" data-stock-val="1" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1279655" onclick="searchlog(1,1279655,26,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1504706753">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1504706753.html" onclick="searchlog(1,1504706753,27,2,'','flagsClk=128')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img13.360buyimg.com/n7/jfs/t1252/321/679376097/298950/2f466bb4/553e1c0dNbeb8f501.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title="金色"><img data-skuid="1504706753" data-lazyload="http://img13.360buyimg.com/n9/jfs/t1252/321/679376097/298950/2f466bb4/553e1c0dNbeb8f501.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="银色"><img data-skuid="1504706751" data-lazyload="http://img11.360buyimg.com/n9/jfs/t1033/113/715142567/281486/a0984765/553e1c16Nd048080c.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="深空灰"><img data-skuid="1504706752" data-lazyload="http://img12.360buyimg.com/n9/jfs/t1012/45/718555904/282246/2c0efe6d/553e1c1eN3cebea30.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1504706753.html" onclick="searchlog(1,1504706753,27,1,'','flagsClk=128')">
+			<font class="skcolor_ljg">苹果</font>(Apple) iPhone 5s (A1533) 16GB 电信3G 金色<font style='color:#ff0000' class='adwords' id='AD_1504706753'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1504706753" data-price="3698.00">￥3698.00</strong>		<span id="p1504706753"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1504706753" target="_blank" href="http://item.jd.com/1504706753.html#comments-list" onclick="searchlog(1,1504706753,27,3,'','flagsClk=128')">已有3人评价</a>
+		<span class="reputation" style="display:none;">(100%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1504706753" data-stock-val="1" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1504706753" onclick="searchlog(1,1504706753,27,5,'','flagsClk=128')"><s></s>加关注</a></div>
+	<div class="shop-name" data-selfware="0" shop_id="121932"></div>
+</div>
+</li>
+<li sku="1472382">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1472382.html" onclick="searchlog(1,1472382,28,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img12.360buyimg.com/n7/jfs/t979/43/535916723/40714/867da811/552f15b0N5a81e319.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title=""><img data-skuid="1472382" data-lazyload="http://img12.360buyimg.com/n9/jfs/t979/43/535916723/40714/867da811/552f15b0N5a81e319.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1472382.html" onclick="searchlog(1,1472382,28,1,'','flagsClk=136')">
+			<font class="skcolor_ljg">苹果</font>(Apple) iPhone 5s (A1530) 16GB 金色 移动联通4G<font class="skcolor_ljg">手机</font>（自拍专用套装）<font style='color:#ff0000' class='adwords' id='AD_1472382'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1472382" data-price="3676.00">￥3676.00</strong>		<span id="p1472382"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1472382" target="_blank" href="http://item.jd.com/1472382.html#comments-list" onclick="searchlog(1,1472382,28,3,'','flagsClk=136')">已有339人评价</a>
+		<span class="reputation" style="display:none;">(93%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1472382" data-stock-val="1" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1472382" onclick="searchlog(1,1472382,28,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1472381">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1472381.html" onclick="searchlog(1,1472381,29,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img11.360buyimg.com/n7/jfs/t1261/37/549365158/39180/fc147efe/55309fe8N370023f0.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title=""><img data-skuid="1472381" data-lazyload="http://img11.360buyimg.com/n9/jfs/t1261/37/549365158/39180/fc147efe/55309fe8N370023f0.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1472381.html" onclick="searchlog(1,1472381,29,1,'','flagsClk=136')">
+			<font class="skcolor_ljg">苹果</font>(Apple) iPhone 5s (A1530) 16GB 银色 移动联通4G<font class="skcolor_ljg">手机</font>（自拍专用套装）<font style='color:#ff0000' class='adwords' id='AD_1472381'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1472381" data-price="3676.00">￥3676.00</strong>		<span id="p1472381"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1472381" target="_blank" href="http://item.jd.com/1472381.html#comments-list" onclick="searchlog(1,1472381,29,3,'','flagsClk=136')">已有339人评价</a>
+		<span class="reputation" style="display:none;">(93%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1472381" data-stock-val="1" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1472381" onclick="searchlog(1,1472381,29,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1472369">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1472369.html" onclick="searchlog(1,1472369,30,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img14.360buyimg.com/n7/jfs/t1264/52/571194599/55547/756f484a/55309feaNebbe5711.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title=""><img data-skuid="1472369" data-lazyload="http://img14.360buyimg.com/n9/jfs/t1264/52/571194599/55547/756f484a/55309feaNebbe5711.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1472369.html" onclick="searchlog(1,1472369,30,1,'','flagsClk=136')">
+			<font class="skcolor_ljg">苹果</font>(Apple) iPhone 5s (A1530) 16GB 深空灰色 移动联通4G<font class="skcolor_ljg">手机</font>（自拍专用套装）<font style='color:#ff0000' class='adwords' id='AD_1472369'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1472369" data-price="3676.00">￥3676.00</strong>		<span id="p1472369"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1472369" target="_blank" href="http://item.jd.com/1472369.html#comments-list" onclick="searchlog(1,1472369,30,3,'','flagsClk=136')">已有339人评价</a>
+		<span class="reputation" style="display:none;">(93%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1472369" data-stock-val="1" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1472369" onclick="searchlog(1,1472369,30,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1192310">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1192310.html" onclick="searchlog(1,1192310,31,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img10.360buyimg.com/n7/g13/M09/0B/05/rBEhVFIxaGkIAAAAAAGEV0SZGCMAADEsQOGrOkAAYRv640.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title=""><img data-skuid="1192310" data-lazyload="http://img10.360buyimg.com/n9/g13/M09/0B/05/rBEhVFIxaGkIAAAAAAGEV0SZGCMAADEsQOGrOkAAYRv640.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1192310.html" onclick="searchlog(1,1192310,31,1,'','flagsClk=136')">
+			【购机送费】<font class="skcolor_ljg">苹果</font>(Apple) iPhone 5s (A1518) 16GB 金色 移动4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1192310'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1192310" data-price="3599.00">￥3599.00</strong>		<span id="p1192310"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1192310" target="_blank" href="http://item.jd.com/1192310.html#comments-list" onclick="searchlog(1,1192310,31,3,'','flagsClk=136')">已有66人评价</a>
+		<span class="reputation" style="display:none;">(87%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1192310" data-stock-val="0" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1192310" onclick="searchlog(1,1192310,31,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1192321">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1192321.html" onclick="searchlog(1,1192321,32,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img11.360buyimg.com/n7/g13/M04/0B/05/rBEhUlIxZ_YIAAAAAAF5I4l8Mw8AADErgIijHsAAXk7281.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title=""><img data-skuid="1192321" data-lazyload="http://img11.360buyimg.com/n9/g13/M04/0B/05/rBEhUlIxZ_YIAAAAAAF5I4l8Mw8AADErgIijHsAAXk7281.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1192321.html" onclick="searchlog(1,1192321,32,1,'','flagsClk=136')">
+			【上海移动购机赠费】<font class="skcolor_ljg">苹果</font>(Apple) iPhone 5s (A1518) 16GB 银色 移动4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1192321'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1192321" data-price="3599.00">￥3599.00</strong>		<span id="p1192321"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h4">&nbsp;</span></span></span>
+		<a id="comment-1192321" target="_blank" href="http://item.jd.com/1192321.html#comments-list" onclick="searchlog(1,1192321,32,3,'','flagsClk=136')">已有15人评价</a>
+		<span class="reputation" style="display:none;">(93%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1192321" data-stock-val="0" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1192321" onclick="searchlog(1,1192321,32,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1192322">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1192322.html" onclick="searchlog(1,1192322,33,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img12.360buyimg.com/n7/g14/M03/0F/1E/rBEhVVIxaDEIAAAAAAF-9Bmxq6gAADHQgOliMUAAX8M050.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title=""><img data-skuid="1192322" data-lazyload="http://img12.360buyimg.com/n9/g14/M03/0F/1E/rBEhVVIxaDEIAAAAAAF-9Bmxq6gAADHQgOliMUAAX8M050.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1192322.html" onclick="searchlog(1,1192322,33,1,'','flagsClk=136')">
+			【上海移动购机赠费】<font class="skcolor_ljg">苹果</font>(Apple) iPhone 5s (A1518) 16GB 深空灰色 移动4G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_1192322'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1192322" data-price="3599.00">￥3599.00</strong>		<span id="p1192322"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h4">&nbsp;</span></span></span>
+		<a id="comment-1192322" target="_blank" href="http://item.jd.com/1192322.html#comments-list" onclick="searchlog(1,1192322,33,3,'','flagsClk=136')">已有11人评价</a>
+		<span class="reputation" style="display:none;">(82%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1192322" data-stock-val="0" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1192322" onclick="searchlog(1,1192322,33,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="1504694315">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1504694315.html" onclick="searchlog(1,1504694315,34,2,'','flagsClk=128')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img10.360buyimg.com/n7/jfs/t961/271/715043348/298950/2f466bb4/553e1c45N8bb3cfae.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title="金色"><img data-skuid="1504694315" data-lazyload="http://img10.360buyimg.com/n9/jfs/t961/271/715043348/298950/2f466bb4/553e1c45N8bb3cfae.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="深空灰"><img data-skuid="1504694316" data-lazyload="http://img11.360buyimg.com/n9/jfs/t859/157/692188401/282246/2c0efe6d/553e1c4eN21b9c3a1.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="银色"><img data-skuid="1504694314" data-lazyload="http://img14.360buyimg.com/n9/jfs/t1150/257/719029580/281486/a0984765/553e1c3dNcf564bc8.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1504694315.html" onclick="searchlog(1,1504694315,34,1,'','flagsClk=128')">
+			<font class="skcolor_ljg">苹果</font>(Apple) iPhone 5s (A1518) 16GB 移动4G 金色 16G<font style='color:#ff0000' class='adwords' id='AD_1504694315'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1504694315" data-price="3598.00">￥3598.00</strong>		<span id="p1504694315"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h4">&nbsp;</span></span></span>
+		<a id="comment-1504694315" target="_blank" href="http://item.jd.com/1504694315.html#comments-list" onclick="searchlog(1,1504694315,34,3,'','flagsClk=128')">已有20人评价</a>
+		<span class="reputation" style="display:none;">(70%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1504694315" data-stock-val="1" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1504694315" onclick="searchlog(1,1504694315,34,5,'','flagsClk=128')"><s></s>加关注</a></div>
+	<div class="shop-name" data-selfware="0" shop_id="121932"></div>
+</div>
+</li>
+<li sku="1494423810">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1494423810.html" onclick="searchlog(1,1494423810,35,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img10.360buyimg.com/n7/jfs/t931/100/698014727/275559/b9e03048/553e08ddNec4c9529.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title="金色"><img data-skuid="1494423810" data-lazyload="http://img10.360buyimg.com/n9/jfs/t931/100/698014727/275559/b9e03048/553e08ddNec4c9529.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1494423810.html" onclick="searchlog(1,1494423810,35,1,'','flagsClk=136')">
+			<font class="skcolor_ljg">苹果</font>(Apple) iPhone 5s (A1518) 16GB 移动4G<font class="skcolor_ljg">手机</font> 金色 标配版<font style='color:#ff0000' class='adwords' id='AD_1494423810'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1494423810" data-price="3499.00">￥3499.00</strong>		<span id="p1494423810"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1494423810" target="_blank" href="http://item.jd.com/1494423810.html#comments-list" onclick="searchlog(1,1494423810,35,3,'','flagsClk=136')">已有13人评价</a>
+		<span class="reputation" style="display:none;">(92%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1494423810" data-stock-val="1" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1494423810" onclick="searchlog(1,1494423810,35,5,'','flagsClk=136')"><s></s>加关注</a></div>
+	<div class="shop-name" data-selfware="0" shop_id="113406"></div>
+</div>
+</li>
+<li sku="1555079293">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1555079293.html" onclick="searchlog(1,1555079293,36,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img13.360buyimg.com/n7/jfs/t1303/201/129689189/280004/e7138593/554f221aN6da54716.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title="粉色"><img data-skuid="1555079293" data-lazyload="http://img13.360buyimg.com/n9/jfs/t1303/201/129689189/280004/e7138593/554f221aN6da54716.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="白色"><img data-skuid="1556493588" data-lazyload="http://img13.360buyimg.com/n9/" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="蓝色"><img data-skuid="1556493589" data-lazyload="http://img14.360buyimg.com/n9/jfs/t1315/130/142463814/273335/c964b90d/555081e4Nfddf740f.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1555079293.html" onclick="searchlog(1,1555079293,36,1,'','flagsClk=136')">
+			<font class="skcolor_ljg">苹果</font>(Apple) iPhone 5c 电信3G<font class="skcolor_ljg">手机</font> 16GB 粉色 标配版<font style='color:#ff0000' class='adwords' id='AD_1555079293'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1555079293" data-price="2399.00">￥2399.00</strong>		<span id="p1555079293"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h0">&nbsp;</span></span></span>
+		<a id="comment-1555079293" target="_blank" href="http://item.jd.com/1555079293.html#comments-list" onclick="searchlog(1,1555079293,36,3,'','flagsClk=136')">已有0人评价</a>
+		<span class="reputation" style="display:none;">(0%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1555079293" data-stock-val="1" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1555079293" onclick="searchlog(1,1555079293,36,5,'','flagsClk=136')"><s></s>加关注</a></div>
+	<div class="shop-name" data-selfware="0" shop_id="113406"></div>
+</div>
+</li>
+<li sku="1489910291">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1489910291.html" onclick="searchlog(1,1489910291,37,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img11.360buyimg.com/n7/jfs/t787/343/640010700/274473/e80527f6/5538c1a3N257730f8.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title="黑色"><img data-skuid="1489910291" data-lazyload="http://img11.360buyimg.com/n9/jfs/t787/343/640010700/274473/e80527f6/5538c1a3N257730f8.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="白色"><img data-skuid="1489910290" data-lazyload="http://img10.360buyimg.com/n9/jfs/t1081/198/647536421/273324/59783775/5538c1a1N9ecc806e.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1489910291.html" onclick="searchlog(1,1489910291,37,1,'','flagsClk=136')">
+			<font class="skcolor_ljg">苹果</font>(Apple) iPhone 4s 8GB 电信3G<font class="skcolor_ljg">手机</font> 黑色 标配版<font style='color:#ff0000' class='adwords' id='AD_1489910291'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1489910291" data-price="2159.00">￥2159.00</strong>		<span id="p1489910291"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1489910291" target="_blank" href="http://item.jd.com/1489910291.html#comments-list" onclick="searchlog(1,1489910291,37,3,'','flagsClk=136')">已有83人评价</a>
+		<span class="reputation" style="display:none;">(88%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1489910291" data-stock-val="1" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1489910291" onclick="searchlog(1,1489910291,37,5,'','flagsClk=136')"><s></s>加关注</a></div>
+	<div class="shop-name" data-selfware="0" shop_id="113406"></div>
+</div>
+</li>
+<li sku="1518846">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/1518846.html" onclick="searchlog(1,1518846,38,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img11.360buyimg.com/n7/jfs/t1090/159/714304908/104555/58c0d4b3/553f5edfN5c3ce37e.jpg" />
+		</a>
+		<div ></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title=""><img data-skuid="1518846" data-lazyload="http://img11.360buyimg.com/n9/jfs/t1090/159/714304908/104555/58c0d4b3/553f5edfN5c3ce37e.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/1518846.html" onclick="searchlog(1,1518846,38,1,'','flagsClk=136')">
+			<font class="skcolor_ljg">苹果</font>(Apple) iPhone 4s 8GB 黑色 联通3G<font class="skcolor_ljg">手机</font>（含贴膜套装）<font style='color:#ff0000' class='adwords' id='AD_1518846'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_1518846" data-price="1808.00">￥1808.00</strong>		<span id="p1518846"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-1518846" target="_blank" href="http://item.jd.com/1518846.html#comments-list" onclick="searchlog(1,1518846,38,3,'','flagsClk=136')">已有0人评价</a>
+		<span class="reputation" style="display:none;">(100%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="1518846" data-stock-val="1" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll1518846" onclick="searchlog(1,1518846,38,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+<li sku="981821">
+<div class="lh-wrap">
+	<div class="p-img">
+		<a target="_blank" href="http://item.jd.com/981821.html" onclick="searchlog(1,981821,39,2,'','flagsClk=136')">
+			<img width="220" height="220" data-img="1" data-lazyload="http://img11.360buyimg.com/n7/g15/M06/0B/01/rBEhWFI5T0IIAAAAAAF4XUwhRqkAADSZwFbxfIAAXh1903.jpg" />
+		</a>
+		<div class="picon pi3"><b></b></div>
+	</div>
+	<div class="p-scroll">
+		<a href="javascript:;" class="p-scroll-btn p-scroll-prev">&lt;</a>
+		<div class="p-scroll-wrap">
+			<ul>
+				<li><a href="javascript:;" class="curr" title="白"><img data-skuid="981821" data-lazyload="http://img11.360buyimg.com/n9/g15/M06/0B/01/rBEhWFI5T0IIAAAAAAF4XUwhRqkAADSZwFbxfIAAXh1903.jpg" width="25" height="25" /></a></li>
+				<li><a href="javascript:;" title="黑"><img data-skuid="981822" data-lazyload="http://img12.360buyimg.com/n9/2275/a6cd889d-80ff-4987-bbf7-9a30a1f732f2.jpg" width="25" height="25" /></a></li>
+			</ul>
+		</div>
+		<a href="javascript:;" class="p-scroll-btn p-scroll-next">&gt;</a>
+	</div>
+	<div class="p-name">
+		<a target="_blank" href="http://item.jd.com/981821.html" onclick="searchlog(1,981821,39,1,'','flagsClk=136')">
+			<font class="skcolor_ljg">苹果</font>(Apple) iPhone 4s 8GB 白色 3G<font class="skcolor_ljg">手机</font><font style='color:#ff0000' class='adwords' id='AD_981821'></font>
+		</a>
+	</div>
+	<div class="p-price" >
+		<em></em><strong class="J_981821" data-price="1799.00">￥1799.00</strong>		<span id="p981821"></span>
+	</div>
+	<div class="extra">
+		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
+		<a id="comment-981821" target="_blank" href="http://item.jd.com/981821.html#comments-list" onclick="searchlog(1,981821,39,3,'','flagsClk=136')">已有111191人评价</a>
+		<span class="reputation" style="display:none;">(93%好评)</span>
+	</div>
+	<div class="stocklist">
+		<span class="st33">湖北有货</span>
+	</div>
+    <div class="hide"><a data-stock="981821" data-stock-val="1" presale="0"></a></div>
+	<div class="product-follow"><a href="javascript:;" class="btn-coll" id="coll981821" onclick="searchlog(1,981821,39,5,'','flagsClk=136')"><s></s>加关注</a></div>
+</div>
+</li>
+</ul></div>
+<div class="m clearfix" id="bottom_pager">
+<div  id="pagin-btm" class="pagin fr" clstag="search|keycount|search|pre-page2">
+	<span class="prev-disabled">上一页<b></b></span>
+	<a href="javascript:void(0)" class="current">1</a>
+	<span class="next-disabled">下一页<b></b></span>
+	<span class="page-skip"><em>&nbsp;&nbsp;共1页&nbsp;&nbsp;&nbsp;&nbsp;到第</em><input class="jumpto" type="text" value="1" onkeydown="javascript:if(event.keyCode==13){jumpto();return false;}"/><em>页</em><a class="btn-skipsearch" value="确定" onclick="jumpto()">确定</a></span>
+</div>
+</div>
+<div id="shop-choice" reco_id="2" class="shop-choice hide"></div>
+<div class="svote m"></div>
+<div id="re-search" class="m">
+	<dl>
+		<dt>重新搜索</dt>
+		<dd>
+			<input type="text" class="text" id="key-re-search" onkeydown="javascript:if(event.keyCode==13){search('key-re-search');return false;}" value="苹果手机" />
+			<input type="button" class="button" onclick="search('key-re-search')" id="btn-re-search" value="搜&nbsp;索" />
+		</dd>
+	</dl>
+</div>
+<script>
+LogParm = {
+	result_count:'40',
+	ab:'0110',
+	front_cost:'57',
+	back_cost:'26',
+	ip:'3.84',
+	cid:'',
+	psort:'1',
+	page:'1',
+	ekey:'',
+	ev:'0',
+	rec_type:'0',
+	rel_cat2:'653,6880',
+	rel_cat3:'655,6881',
+	log_id:'1431447178.30500',
+	expand:'double=1',
+	sig:'t06PaoLUfPpbYPrDt9UU7jIO8qo1yly1TmRrar/0e2cBy6vMPf6Z9k4BHZwSK3bk0OpPIt12jd2l10usg0SYf3xP+c+rE0Ja9Acc3qM1gnWJ1wkHYdceeWrV1dDYE8GKsqY3tvjKxsM5htL7mN5CuicGYqs4jAUS4LY1c1+Oprs='
+};
+SEARCH.search_type = '商品';
+SEARCH.base_url = 'keyword=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&enc=utf-8&qrst=UNEXPAND&rt=1&stop=1&sttr=1&click=';
+SEARCH.psort = '1';
+SEARCH.click = '';
+</script>
+
+	</div>
+	<span class="clr"></span>
+</div>
+<div class="w"> <div id="product-track"> <div class="right"> <div id="maybe-like" class="m m2" data-widget="tabs"> <div class="mt"> <h2>根据浏览猜你喜欢</h2> <div class="extra"> </div> </div> <div class="mc"> <div class="iloading">正在加载中，请稍候...</div> </div> </div><!--maybe-like--> </div><!-- right --> <div class="left"> <div id="recent-view-track" class="m m2"> <div class="mt"> <h2>最近浏览</h2> </div> <div class="mc"> <div class="iloading">正在加载中，请稍候...</div> </div> </div><!--recent-view-track end--> </div><!-- left --> <span class="clr"></span> </div> </div>
+<div id="xjd_bottom" class="w"></div>
+<div id="Collect_Tip" class="Tip360 w260"></div>
+<div class="w">
+	<div id="service-2013">
+		<dl class="fore1">
+			<dt><b></b><strong>购物指南</strong></dt>
+			<dd>
+				<div><a href="http://help.jd.com/user/issue/list-29.html" target="_blank" rel="nofollow">购物流程</a></div>
+				<div><a href="http://help.jd.com/user/issue/list-151.html" target="_blank" rel="nofollow">会员介绍</a></div>
+				<div><a href="http://help.jd.com/user/issue/list-297.html" target="_blank" rel="nofollow">生活旅行/团购</a></div>
+				<div><a href="http://help.jd.com/user/issue.html" target="_blank" rel="nofollow">常见问题</a></div>
+				<div><a href="http://help.jd.com/user/issue/list-136.html" target="_blank" rel="nofollow">大家电</a></div>
+				<div><a href="http://help.jd.com/user/index.html" target="_blank" rel="nofollow">联系客服</a></div>
+			</dd>
+		</dl>
+		<dl class="fore2">		
+			<dt><b></b><strong>配送方式</strong></dt>
+			<dd>
+				<div><a href="http://help.jd.com/user/issue/list-81-100.html" target="_blank" rel="nofollow">上门自提</a></div>
+				<div><a href="http://help.jd.com/user/issue/list-81.html" target="_blank" rel="nofollow">211限时达</a></div>
+				<div><a href="http://help.jd.com/user/issue/103-983.html" target="_blank" rel="nofollow">配送服务查询</a></div>
+				<div><a href="http://help.jd.com/user/issue/109-188.html" target="_blank" rel="nofollow">配送费收取标准</a></div>
+				<div><a href="http://en.jd.com/chinese.html" target="_blank">海外配送</a></div>
+			</dd>
+		</dl>
+		<dl class="fore3">
+			<dt><b></b><strong>支付方式</strong></dt>
+			<dd>
+				<div><a href="http://help.jd.com/user/issue/list-172.html" target="_blank" rel="nofollow">货到付款</a></div>
+				<div><a href="http://help.jd.com/user/issue/list-173.html" target="_blank" rel="nofollow">在线支付</a></div>
+				<div><a href="http://help.jd.com/user/issue/list-176.html" target="_blank" rel="nofollow">分期付款</a></div>
+				<div><a href="http://help.jd.com/user/issue/list-174.html" target="_blank" rel="nofollow">邮局汇款</a></div>
+				<div><a href="http://help.jd.com/user/issue/list-175.html" target="_blank" rel="nofollow">公司转账</a></div>
+			</dd>
+		</dl>
+		<dl class="fore4">		
+			<dt><b></b><strong>售后服务</strong></dt>
+			<dd>
+				<div><a href="http://help.jd.com/user/issue/321-981.html" target="_blank" rel="nofollow">售后政策</a></div>
+				<div><a href="http://help.jd.com/user/issue/list-132.html" target="_blank" rel="nofollow">价格保护</a></div>
+				<div><a href="http://help.jd.com/user/issue/130-978.html" target="_blank" rel="nofollow">退款说明</a></div>
+				<div><a href="http://myjd.jd.com/repair/repairs.action" target="_blank" rel="nofollow">返修/退换货</a></div>
+				<div><a href="http://help.jd.com/user/issue/list-50.html" target="_blank" rel="nofollow">取消订单</a></div>
+			</dd>
+		</dl>
+		<dl class="fore5">
+			<dt><b></b><strong>特色服务</strong></dt>
+			<dd>			
+				<div><a href="http://help.jd.com/user/issue/list-133.html" target="_blank">夺宝岛</a></div>
+				<div><a href="http://help.jd.com/user/issue/list-134.html" target="_blank">DIY装机</a></div>
+				<div><a href="http://fuwu.jd.com/" target="_blank" rel="nofollow">延保服务</a></div>
+				<div><a href="http://giftcard.jd.com/market/index.action" target="_blank" rel="nofollow">京东E卡</a></div>
+				<div><a href="http://mobile.jd.com/" target="_blank" rel="nofollow">京东通信</a></div>
+			</dd>
+		</dl>
+		<span class="clr"></span>
+	</div>
+</div><!-- service end --><div class="w">
+	<div id="footer-2013">
+		<div class="links"><a href="http://www.jd.com/intro/about.aspx" target="_blank" rel="nofollow">关于我们</a>|<a href="http://www.jd.com/contact/" target="_blank" rel="nofollow">联系我们</a>|<a href="http://www.jd.com/contact/joinin.aspx" target="_blank" rel="nofollow">商家入驻</a>|<a href="http://jzt.jd.com" target="_blank" rel="nofollow">营销中心</a>|<a href="http://app.jd.com/" target="_blank" rel="nofollow">手机京东</a>|<a href="http://club.jd.com/links.aspx" target="_blank">友情链接</a>|<a href="http://media.jd.com/" target="_blank">销售联盟</a>|<a target="_blank" href="http://club.jd.com/">京东社区</a>|<a target="_blank" href="http://gongyi.jd.com">京东公益</a></div>
+		<div class="copyright">北京市公安局朝阳分局备案编号110105014669&nbsp;&nbsp;|&nbsp;&nbsp;京ICP证070359号&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://img14.360buyimg.com/da/jfs/t256/349/769670066/270505/3b03e0bb/53f16c24N7c04d9e9.jpg" target="_blank">互联网药品信息服务资格证编号(京)-经营性-2014-0008</a><br><a target="_blank" href="http://misc.360buyimg.com/skin/df/i/com/f_music.jpg" rel="nofollow">音像制品经营许可证苏宿批005号</a>&nbsp;&nbsp;|&nbsp;&nbsp;出版物经营许可证编号新出发(苏)批字第N-012号&nbsp;&nbsp;|&nbsp;&nbsp;互联网出版许可证编号新出网证(京)字150号<br><a target="_blank" href="http://misc.360buyimg.com/wz/wlwhjyxkz.jpg">网络文化经营许可证京网文[2014]2148-348号</a>&nbsp;&nbsp;文明办网文明上网举报电话：4006561155&nbsp;&nbsp;Copyright&nbsp;&copy;&nbsp;2004-2015&nbsp;&nbsp;京东JD.com&nbsp;版权所有<br />京东旗下网站：<a target="_blank" href="http://en.jd.com/">English Site</a></div>
+		<div class="authentication"><a href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202007080200026" target="_blank" rel="nofollow"><img data-lazyload="http://img10.360buyimg.com/da/20110329/108_40_zZOKnl.gif" width="108" height="40" alt="经营性网站备案中心"></a><script type="text/JavaScript">function CNNIC_change(eleId){var str= document.getElementById(eleId).href;var str1 =str.substring(0,(str.length-6));str1+=CNNIC_RndNum(6); document.getElementById(eleId).href=str1;}function CNNIC_RndNum(k){var rnd=""; for (var i=0;i < k;i++) rnd+=Math.floor(Math.random()*10); return rnd;}</script><a href="https://ss.knet.cn/verifyseal.dll?sn=2008070300100000031&ct=df&pa=294005" tabindex="-1" id="urlknet" target="_blank" rel="nofollow"><img alt="&#x53EF;&#x4FE1;&#x7F51;&#x7AD9;" name="CNNIC_seal" border="true" data-lazyload="http://img11.360buyimg.com/da/g8/M03/0C/0E/rBEHaFCFC5QIAAAAAAASVQX9RAYAACb2wHUV1kAABJt760.gif" width="108" height="40" oncontextmenu="return false;" onclick="CNNIC_change('urlknet')" /></a><a href="http://www.bj.cyberpolice.cn/index.do" target="_blank" rel="nofollow"><img data-lazyload="http://img12.360buyimg.com/da/g5/M02/0D/17/rBEIDE_nzcIIAAAAAAB30mYXo5QAACrhACj22IAAHfq378.png" width="108" height="40" alt="朝阳网络警察"></a><a href="https://search.szfw.org/cert/l/CX20120111001803001836" target="_blank" rel="nofollow"><img data-lazyload="http://img13.360buyimg.com/da/20120221/112_40_WvArIl.png" width="112" height="40"></a></div>
+	</div>
+</div><!-- footer end --><script type="text/javascript" src="http://misc.360buyimg.com/lib/js/2012/lib-v1.js?t=20130228" charset="gb2312"></script>
+<script type="text/javascript" src="script/search_main.js?168.js"></script>
+<script type="text/javascript">SEARCH.init(1,1,40,'1',1,0,655,'<a class="research" href="javascript:surveyShow();"><b></b>意见反馈</a>',0)</script><script>SEARCH.get_adv_info(12,"1","","_2","_2");</script><script type="text/javascript" async src="http://misc.360buyimg.com/product/js/2012/footprint.js"></script>
+<script type="text/javascript" async src="http://nfa.jd.com/loadFa.js?aid=2_164_819"></script>
+<script type="text/javascript">
+(function() { var ja = document.createElement('script'); ja.type = 'text/javascript'; ja.async = true;
+ ja.src = ('https:' == document.location.protocol ? 'https://wlssl' : 'http://wl') + '.jd.com/wl.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ja, s); })();
+</script>
+</body>
+</html>
