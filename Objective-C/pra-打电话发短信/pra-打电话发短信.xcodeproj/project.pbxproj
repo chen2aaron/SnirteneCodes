@@ -1,0 +1,431 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		64FF084A1B0B3C8300835729 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 64FF08491B0B3C8300835729 /* main.m */; };
+		64FF084D1B0B3C8300835729 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 64FF084C1B0B3C8300835729 /* AppDelegate.m */; };
+		64FF08551B0B3C8300835729 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 64FF08541B0B3C8300835729 /* Images.xcassets */; };
+		64FF08581B0B3C8300835729 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 64FF08561B0B3C8300835729 /* LaunchScreen.xib */; };
+		64FF08641B0B3C8300835729 /* pra_______Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 64FF08631B0B3C8300835729 /* pra_______Tests.m */; };
+		64FF08721B0B40AE00835729 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 64FF08511B0B3C8300835729 /* Main.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		64FF085E1B0B3C8300835729 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 64FF083C1B0B3C8300835729 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 64FF08431B0B3C8300835729;
+			remoteInfo = "pra-打电话发短信";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		64FF08441B0B3C8300835729 /* pra-打电话发短信.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "pra-打电话发短信.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		64FF08481B0B3C8300835729 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		64FF08491B0B3C8300835729 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		64FF084B1B0B3C8300835729 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		64FF084C1B0B3C8300835729 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		64FF084E1B0B3C8300835729 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		64FF084F1B0B3C8300835729 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		64FF08521B0B3C8300835729 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		64FF08541B0B3C8300835729 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		64FF08571B0B3C8300835729 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		64FF085D1B0B3C8300835729 /* pra-打电话发短信Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "pra-打电话发短信Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		64FF08621B0B3C8300835729 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		64FF08631B0B3C8300835729 /* pra_______Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "pra_______Tests.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		64FF08411B0B3C8300835729 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64FF085A1B0B3C8300835729 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		64FF083B1B0B3C8300835729 = {
+			isa = PBXGroup;
+			children = (
+				64FF08461B0B3C8300835729 /* pra-打电话发短信 */,
+				64FF08601B0B3C8300835729 /* pra-打电话发短信Tests */,
+				64FF08451B0B3C8300835729 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		64FF08451B0B3C8300835729 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				64FF08441B0B3C8300835729 /* pra-打电话发短信.app */,
+				64FF085D1B0B3C8300835729 /* pra-打电话发短信Tests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		64FF08461B0B3C8300835729 /* pra-打电话发短信 */ = {
+			isa = PBXGroup;
+			children = (
+				64FF084B1B0B3C8300835729 /* AppDelegate.h */,
+				64FF084C1B0B3C8300835729 /* AppDelegate.m */,
+				64FF084E1B0B3C8300835729 /* ViewController.h */,
+				64FF084F1B0B3C8300835729 /* ViewController.m */,
+				64FF08511B0B3C8300835729 /* Main.storyboard */,
+				64FF08541B0B3C8300835729 /* Images.xcassets */,
+				64FF08561B0B3C8300835729 /* LaunchScreen.xib */,
+				64FF08471B0B3C8300835729 /* Supporting Files */,
+			);
+			path = "pra-打电话发短信";
+			sourceTree = "<group>";
+		};
+		64FF08471B0B3C8300835729 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				64FF08481B0B3C8300835729 /* Info.plist */,
+				64FF08491B0B3C8300835729 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		64FF08601B0B3C8300835729 /* pra-打电话发短信Tests */ = {
+			isa = PBXGroup;
+			children = (
+				64FF08631B0B3C8300835729 /* pra_______Tests.m */,
+				64FF08611B0B3C8300835729 /* Supporting Files */,
+			);
+			path = "pra-打电话发短信Tests";
+			sourceTree = "<group>";
+		};
+		64FF08611B0B3C8300835729 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				64FF08621B0B3C8300835729 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		64FF08431B0B3C8300835729 /* pra-打电话发短信 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 64FF08671B0B3C8300835729 /* Build configuration list for PBXNativeTarget "pra-打电话发短信" */;
+			buildPhases = (
+				64FF08401B0B3C8300835729 /* Sources */,
+				64FF08411B0B3C8300835729 /* Frameworks */,
+				64FF08421B0B3C8300835729 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "pra-打电话发短信";
+			productName = "pra-打电话发短信";
+			productReference = 64FF08441B0B3C8300835729 /* pra-打电话发短信.app */;
+			productType = "com.apple.product-type.application";
+		};
+		64FF085C1B0B3C8300835729 /* pra-打电话发短信Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 64FF086A1B0B3C8300835729 /* Build configuration list for PBXNativeTarget "pra-打电话发短信Tests" */;
+			buildPhases = (
+				64FF08591B0B3C8300835729 /* Sources */,
+				64FF085A1B0B3C8300835729 /* Frameworks */,
+				64FF085B1B0B3C8300835729 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				64FF085F1B0B3C8300835729 /* PBXTargetDependency */,
+			);
+			name = "pra-打电话发短信Tests";
+			productName = "pra-打电话发短信Tests";
+			productReference = 64FF085D1B0B3C8300835729 /* pra-打电话发短信Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		64FF083C1B0B3C8300835729 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0620;
+				ORGANIZATIONNAME = chan;
+				TargetAttributes = {
+					64FF08431B0B3C8300835729 = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					64FF085C1B0B3C8300835729 = {
+						CreatedOnToolsVersion = 6.2;
+						TestTargetID = 64FF08431B0B3C8300835729;
+					};
+				};
+			};
+			buildConfigurationList = 64FF083F1B0B3C8300835729 /* Build configuration list for PBXProject "pra-打电话发短信" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 64FF083B1B0B3C8300835729;
+			productRefGroup = 64FF08451B0B3C8300835729 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				64FF08431B0B3C8300835729 /* pra-打电话发短信 */,
+				64FF085C1B0B3C8300835729 /* pra-打电话发短信Tests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		64FF08421B0B3C8300835729 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				64FF08721B0B40AE00835729 /* Main.storyboard in Resources */,
+				64FF08581B0B3C8300835729 /* LaunchScreen.xib in Resources */,
+				64FF08551B0B3C8300835729 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64FF085B1B0B3C8300835729 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		64FF08401B0B3C8300835729 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				64FF084D1B0B3C8300835729 /* AppDelegate.m in Sources */,
+				64FF084A1B0B3C8300835729 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64FF08591B0B3C8300835729 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				64FF08641B0B3C8300835729 /* pra_______Tests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		64FF085F1B0B3C8300835729 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 64FF08431B0B3C8300835729 /* pra-打电话发短信 */;
+			targetProxy = 64FF085E1B0B3C8300835729 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		64FF08511B0B3C8300835729 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				64FF08521B0B3C8300835729 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		64FF08561B0B3C8300835729 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				64FF08571B0B3C8300835729 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		64FF08651B0B3C8300835729 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		64FF08661B0B3C8300835729 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		64FF08681B0B3C8300835729 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "pra-打电话发短信/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		64FF08691B0B3C8300835729 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "pra-打电话发短信/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		64FF086B1B0B3C8300835729 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "pra-打电话发短信Tests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/pra-打电话发短信.app/pra-打电话发短信";
+			};
+			name = Debug;
+		};
+		64FF086C1B0B3C8300835729 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "pra-打电话发短信Tests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/pra-打电话发短信.app/pra-打电话发短信";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		64FF083F1B0B3C8300835729 /* Build configuration list for PBXProject "pra-打电话发短信" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				64FF08651B0B3C8300835729 /* Debug */,
+				64FF08661B0B3C8300835729 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		64FF08671B0B3C8300835729 /* Build configuration list for PBXNativeTarget "pra-打电话发短信" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				64FF08681B0B3C8300835729 /* Debug */,
+				64FF08691B0B3C8300835729 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		64FF086A1B0B3C8300835729 /* Build configuration list for PBXNativeTarget "pra-打电话发短信Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				64FF086B1B0B3C8300835729 /* Debug */,
+				64FF086C1B0B3C8300835729 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 64FF083C1B0B3C8300835729 /* Project object */;
+}
