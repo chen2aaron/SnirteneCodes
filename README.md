@@ -4,17 +4,19 @@ Proceed in an orderly way and step by step.
 
 我学习时写的codes都存这里啦～
 
-大多数都是Python，还有一些IOS开发
+大多数都是Python，还有一些OC
 
 ## BeautifulSoup 
 
+一些用BeautifulSoup写的爬虫练习
+
 Beautiful Soup 是一个可以从HTML或XML文件中提取数据的Python库.它能够通过你喜欢的转换器实现惯用的文档导航,查找,修改文档的方式.Beautiful Soup会帮你节省数小时甚至数天的工作时间.
 
-[Beautiful Soup 4.2.0 官方文档](http://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html#beautiful-soup-4-2-0) － 已粗略的看完
+[Beautiful Soup 4.2.0 官方文档](http://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html#beautiful-soup-4-2-0) － 已看完
 
 ## BoomEG
 
-网上找的一些屌炸天的例子，值得好好学习
+一些叼炸天的例子，值得好好学习
 
 ## Fragment
 一些零碎的codes，打草稿用
@@ -35,9 +37,10 @@ Beautiful Soup 是一个可以从HTML或XML文件中提取数据的Python库.它
 
 已看到第八章Tornado
 
+
 ## PythonChanllenge
 
 [pythonchallenge
-](http://http://www.pythonchallenge.com/)国外的编程挑战网站，
+](http://http://www.pythonchallenge.com/) 国外的编程挑战网站，
 
 有点类似密室逃脱，还蛮有意思的
