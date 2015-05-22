@@ -50,7 +50,7 @@ def download_qbcr(frm=1, page_count=1, save_dir='./'):
 
 def main():
     base_path = '/Users/chan/Pictures/Spider/qiubaiCR/'
-    download_qbcr(frm=1, page_count=5, save_dir=base_path)
+    download_qbcr(frm=203, page_count=366, save_dir=base_path)
 
 if __name__ == '__main__':
     main()

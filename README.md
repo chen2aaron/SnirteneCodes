@@ -8,8 +8,6 @@ Proceed in an orderly way and step by step.
 
 ## BeautifulSoup 
 
-一些用BeautifulSoup写的爬虫练习
-
 Beautiful Soup 是一个可以从HTML或XML文件中提取数据的Python库.它能够通过你喜欢的转换器实现惯用的文档导航,查找,修改文档的方式.Beautiful Soup会帮你节省数小时甚至数天的工作时间.
 
 [Beautiful Soup 4.2.0 官方文档](http://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html#beautiful-soup-4-2-0) － 已看完
@@ -29,6 +27,9 @@ Beautiful Soup 是一个可以从HTML或XML文件中提取数据的Python库.它
 
 ## PythonCookbookPractise
 《PythonCookbook》根据这本工具书写的例子，用的时候查查
+
+## Spider
+一些爬虫
 
 ## StarterLearningPython
 老齐写的书[《零基础学python》（第二版）](https://github.com/qiwsir/StarterLearningPython/blob/master/index.md)
