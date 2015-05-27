@@ -1,0 +1,575 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		64EBA8FC1B15CDAD00CE7CED /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 64EBA8FB1B15CDAD00CE7CED /* main.c */; };
+		64EBA9091B15CDCC00CE7CED /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 64EBA9081B15CDCC00CE7CED /* main.c */; };
+		64EBA9141B15D61900CE7CED /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 64EBA9131B15D61900CE7CED /* main.c */; };
+		64EBA91F1B15DB8400CE7CED /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 64EBA91E1B15DB8400CE7CED /* main.c */; };
+		64EBA92A1B15DFD400CE7CED /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 64EBA9291B15DFD400CE7CED /* main.c */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		64EBA8F61B15CDAD00CE7CED /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		64EBA9041B15CDCC00CE7CED /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		64EBA90F1B15D61900CE7CED /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		64EBA91A1B15DB8400CE7CED /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		64EBA9251B15DFD400CE7CED /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		64EBA8F81B15CDAD00CE7CED /* C7-进制转换 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "C7-进制转换"; sourceTree = BUILT_PRODUCTS_DIR; };
+		64EBA8FB1B15CDAD00CE7CED /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		64EBA9061B15CDCC00CE7CED /* 11-原码反码补码概念 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "11-原码反码补码概念"; sourceTree = BUILT_PRODUCTS_DIR; };
+		64EBA9081B15CDCC00CE7CED /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		64EBA9111B15D61900CE7CED /* 16-十进制转换二进制 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "16-十进制转换二进制"; sourceTree = BUILT_PRODUCTS_DIR; };
+		64EBA9131B15D61900CE7CED /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		64EBA91C1B15DB8400CE7CED /* 17-变量值交换 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "17-变量值交换"; sourceTree = BUILT_PRODUCTS_DIR; };
+		64EBA91E1B15DB8400CE7CED /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		64EBA9271B15DFD400CE7CED /* 19-查看变量在内存中的每个字节 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "19-查看变量在内存中的每个字节"; sourceTree = BUILT_PRODUCTS_DIR; };
+		64EBA9291B15DFD400CE7CED /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		64EBA8F51B15CDAD00CE7CED /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64EBA9031B15CDCC00CE7CED /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64EBA90E1B15D61900CE7CED /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64EBA9191B15DB8400CE7CED /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64EBA9241B15DFD400CE7CED /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		64EBA8EF1B15CDAD00CE7CED = {
+			isa = PBXGroup;
+			children = (
+				64EBA8FA1B15CDAD00CE7CED /* C7-进制转换 */,
+				64EBA9071B15CDCC00CE7CED /* 11-原码反码补码概念 */,
+				64EBA9121B15D61900CE7CED /* 16-十进制转换二进制 */,
+				64EBA91D1B15DB8400CE7CED /* 17-变量值交换 */,
+				64EBA9281B15DFD400CE7CED /* 19-查看变量在内存中的每个字节 */,
+				64EBA8F91B15CDAD00CE7CED /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		64EBA8F91B15CDAD00CE7CED /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				64EBA8F81B15CDAD00CE7CED /* C7-进制转换 */,
+				64EBA9061B15CDCC00CE7CED /* 11-原码反码补码概念 */,
+				64EBA9111B15D61900CE7CED /* 16-十进制转换二进制 */,
+				64EBA91C1B15DB8400CE7CED /* 17-变量值交换 */,
+				64EBA9271B15DFD400CE7CED /* 19-查看变量在内存中的每个字节 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		64EBA8FA1B15CDAD00CE7CED /* C7-进制转换 */ = {
+			isa = PBXGroup;
+			children = (
+				64EBA8FB1B15CDAD00CE7CED /* main.c */,
+			);
+			path = "C7-进制转换";
+			sourceTree = "<group>";
+		};
+		64EBA9071B15CDCC00CE7CED /* 11-原码反码补码概念 */ = {
+			isa = PBXGroup;
+			children = (
+				64EBA9081B15CDCC00CE7CED /* main.c */,
+			);
+			path = "11-原码反码补码概念";
+			sourceTree = "<group>";
+		};
+		64EBA9121B15D61900CE7CED /* 16-十进制转换二进制 */ = {
+			isa = PBXGroup;
+			children = (
+				64EBA9131B15D61900CE7CED /* main.c */,
+			);
+			path = "16-十进制转换二进制";
+			sourceTree = "<group>";
+		};
+		64EBA91D1B15DB8400CE7CED /* 17-变量值交换 */ = {
+			isa = PBXGroup;
+			children = (
+				64EBA91E1B15DB8400CE7CED /* main.c */,
+			);
+			path = "17-变量值交换";
+			sourceTree = "<group>";
+		};
+		64EBA9281B15DFD400CE7CED /* 19-查看变量在内存中的每个字节 */ = {
+			isa = PBXGroup;
+			children = (
+				64EBA9291B15DFD400CE7CED /* main.c */,
+			);
+			path = "19-查看变量在内存中的每个字节";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		64EBA8F71B15CDAD00CE7CED /* C7-进制转换 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 64EBA8FF1B15CDAD00CE7CED /* Build configuration list for PBXNativeTarget "C7-进制转换" */;
+			buildPhases = (
+				64EBA8F41B15CDAD00CE7CED /* Sources */,
+				64EBA8F51B15CDAD00CE7CED /* Frameworks */,
+				64EBA8F61B15CDAD00CE7CED /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "C7-进制转换";
+			productName = "C7-进制转换";
+			productReference = 64EBA8F81B15CDAD00CE7CED /* C7-进制转换 */;
+			productType = "com.apple.product-type.tool";
+		};
+		64EBA9051B15CDCC00CE7CED /* 11-原码反码补码概念 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 64EBA90A1B15CDCC00CE7CED /* Build configuration list for PBXNativeTarget "11-原码反码补码概念" */;
+			buildPhases = (
+				64EBA9021B15CDCC00CE7CED /* Sources */,
+				64EBA9031B15CDCC00CE7CED /* Frameworks */,
+				64EBA9041B15CDCC00CE7CED /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "11-原码反码补码概念";
+			productName = "11-原码反码补码概念";
+			productReference = 64EBA9061B15CDCC00CE7CED /* 11-原码反码补码概念 */;
+			productType = "com.apple.product-type.tool";
+		};
+		64EBA9101B15D61900CE7CED /* 16-十进制转换二进制 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 64EBA9151B15D61900CE7CED /* Build configuration list for PBXNativeTarget "16-十进制转换二进制" */;
+			buildPhases = (
+				64EBA90D1B15D61900CE7CED /* Sources */,
+				64EBA90E1B15D61900CE7CED /* Frameworks */,
+				64EBA90F1B15D61900CE7CED /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "16-十进制转换二进制";
+			productName = "16-十进制转换二进制";
+			productReference = 64EBA9111B15D61900CE7CED /* 16-十进制转换二进制 */;
+			productType = "com.apple.product-type.tool";
+		};
+		64EBA91B1B15DB8400CE7CED /* 17-变量值交换 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 64EBA9201B15DB8400CE7CED /* Build configuration list for PBXNativeTarget "17-变量值交换" */;
+			buildPhases = (
+				64EBA9181B15DB8400CE7CED /* Sources */,
+				64EBA9191B15DB8400CE7CED /* Frameworks */,
+				64EBA91A1B15DB8400CE7CED /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "17-变量值交换";
+			productName = "17-变量值交换";
+			productReference = 64EBA91C1B15DB8400CE7CED /* 17-变量值交换 */;
+			productType = "com.apple.product-type.tool";
+		};
+		64EBA9261B15DFD400CE7CED /* 19-查看变量在内存中的每个字节 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 64EBA92B1B15DFD400CE7CED /* Build configuration list for PBXNativeTarget "19-查看变量在内存中的每个字节" */;
+			buildPhases = (
+				64EBA9231B15DFD400CE7CED /* Sources */,
+				64EBA9241B15DFD400CE7CED /* Frameworks */,
+				64EBA9251B15DFD400CE7CED /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "19-查看变量在内存中的每个字节";
+			productName = "19-查看变量在内存中的每个字节";
+			productReference = 64EBA9271B15DFD400CE7CED /* 19-查看变量在内存中的每个字节 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		64EBA8F01B15CDAD00CE7CED /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0620;
+				ORGANIZATIONNAME = chan;
+				TargetAttributes = {
+					64EBA8F71B15CDAD00CE7CED = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					64EBA9051B15CDCC00CE7CED = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					64EBA9101B15D61900CE7CED = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					64EBA91B1B15DB8400CE7CED = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					64EBA9261B15DFD400CE7CED = {
+						CreatedOnToolsVersion = 6.2;
+					};
+				};
+			};
+			buildConfigurationList = 64EBA8F31B15CDAD00CE7CED /* Build configuration list for PBXProject "C7-进制转换" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 64EBA8EF1B15CDAD00CE7CED;
+			productRefGroup = 64EBA8F91B15CDAD00CE7CED /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				64EBA8F71B15CDAD00CE7CED /* C7-进制转换 */,
+				64EBA9051B15CDCC00CE7CED /* 11-原码反码补码概念 */,
+				64EBA9101B15D61900CE7CED /* 16-十进制转换二进制 */,
+				64EBA91B1B15DB8400CE7CED /* 17-变量值交换 */,
+				64EBA9261B15DFD400CE7CED /* 19-查看变量在内存中的每个字节 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		64EBA8F41B15CDAD00CE7CED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				64EBA8FC1B15CDAD00CE7CED /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64EBA9021B15CDCC00CE7CED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				64EBA9091B15CDCC00CE7CED /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64EBA90D1B15D61900CE7CED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				64EBA9141B15D61900CE7CED /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64EBA9181B15DB8400CE7CED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				64EBA91F1B15DB8400CE7CED /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64EBA9231B15DFD400CE7CED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				64EBA92A1B15DFD400CE7CED /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		64EBA8FD1B15CDAD00CE7CED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		64EBA8FE1B15CDAD00CE7CED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		64EBA9001B15CDAD00CE7CED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		64EBA9011B15CDAD00CE7CED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		64EBA90B1B15CDCC00CE7CED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		64EBA90C1B15CDCC00CE7CED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		64EBA9161B15D61900CE7CED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		64EBA9171B15D61900CE7CED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		64EBA9211B15DB8400CE7CED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		64EBA9221B15DB8400CE7CED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		64EBA92C1B15DFD400CE7CED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		64EBA92D1B15DFD400CE7CED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		64EBA8F31B15CDAD00CE7CED /* Build configuration list for PBXProject "C7-进制转换" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				64EBA8FD1B15CDAD00CE7CED /* Debug */,
+				64EBA8FE1B15CDAD00CE7CED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		64EBA8FF1B15CDAD00CE7CED /* Build configuration list for PBXNativeTarget "C7-进制转换" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				64EBA9001B15CDAD00CE7CED /* Debug */,
+				64EBA9011B15CDAD00CE7CED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		64EBA90A1B15CDCC00CE7CED /* Build configuration list for PBXNativeTarget "11-原码反码补码概念" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				64EBA90B1B15CDCC00CE7CED /* Debug */,
+				64EBA90C1B15CDCC00CE7CED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		64EBA9151B15D61900CE7CED /* Build configuration list for PBXNativeTarget "16-十进制转换二进制" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				64EBA9161B15D61900CE7CED /* Debug */,
+				64EBA9171B15D61900CE7CED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		64EBA9201B15DB8400CE7CED /* Build configuration list for PBXNativeTarget "17-变量值交换" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				64EBA9211B15DB8400CE7CED /* Debug */,
+				64EBA9221B15DB8400CE7CED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		64EBA92B1B15DFD400CE7CED /* Build configuration list for PBXNativeTarget "19-查看变量在内存中的每个字节" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				64EBA92C1B15DFD400CE7CED /* Debug */,
+				64EBA92D1B15DFD400CE7CED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 64EBA8F01B15CDAD00CE7CED /* Project object */;
+}
