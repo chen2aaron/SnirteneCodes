@@ -1,0 +1,659 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		64EBA9A61B17914000CE7CED /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 64EBA9A51B17914000CE7CED /* main.c */; };
+		64EBA9B31B17915700CE7CED /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 64EBA9B21B17915700CE7CED /* main.c */; };
+		64EBA9BE1B17978100CE7CED /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 64EBA9BD1B17978100CE7CED /* main.c */; };
+		64EBA9C91B179E8C00CE7CED /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 64EBA9C81B179E8C00CE7CED /* main.c */; };
+		64EBA9D41B17A0E900CE7CED /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 64EBA9D31B17A0E900CE7CED /* main.c */; };
+		64EBA9DF1B17A60700CE7CED /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 64EBA9DE1B17A60700CE7CED /* main.c */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		64EBA9A01B17914000CE7CED /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		64EBA9AE1B17915700CE7CED /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		64EBA9B91B17978100CE7CED /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		64EBA9C41B179E8C00CE7CED /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		64EBA9CF1B17A0E900CE7CED /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		64EBA9DA1B17A60700CE7CED /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		64EBA9A21B17914000CE7CED /* C9-二维数组 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "C9-二维数组"; sourceTree = BUILT_PRODUCTS_DIR; };
+		64EBA9A51B17914000CE7CED /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		64EBA9B01B17915700CE7CED /* 02-选择排序代码实现 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "02-选择排序代码实现"; sourceTree = BUILT_PRODUCTS_DIR; };
+		64EBA9B21B17915700CE7CED /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		64EBA9BB1B17978100CE7CED /* 05-折半查找代码实现 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "05-折半查找代码实现"; sourceTree = BUILT_PRODUCTS_DIR; };
+		64EBA9BD1B17978100CE7CED /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		64EBA9C61B179E8C00CE7CED /* 07-二维数组初始化 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "07-二维数组初始化"; sourceTree = BUILT_PRODUCTS_DIR; };
+		64EBA9C81B179E8C00CE7CED /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		64EBA9D11B17A0E900CE7CED /* 08-遍历二维数组 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "08-遍历二维数组"; sourceTree = BUILT_PRODUCTS_DIR; };
+		64EBA9D31B17A0E900CE7CED /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		64EBA9DC1B17A60700CE7CED /* 09-二维数组存储细节 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "09-二维数组存储细节"; sourceTree = BUILT_PRODUCTS_DIR; };
+		64EBA9DE1B17A60700CE7CED /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		64EBA99F1B17914000CE7CED /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64EBA9AD1B17915700CE7CED /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64EBA9B81B17978100CE7CED /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64EBA9C31B179E8C00CE7CED /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64EBA9CE1B17A0E900CE7CED /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64EBA9D91B17A60700CE7CED /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		64EBA9991B17914000CE7CED = {
+			isa = PBXGroup;
+			children = (
+				64EBA9A41B17914000CE7CED /* C9-二维数组 */,
+				64EBA9B11B17915700CE7CED /* 02-选择排序代码实现 */,
+				64EBA9BC1B17978100CE7CED /* 05-折半查找代码实现 */,
+				64EBA9C71B179E8C00CE7CED /* 07-二维数组初始化 */,
+				64EBA9D21B17A0E900CE7CED /* 08-遍历二维数组 */,
+				64EBA9DD1B17A60700CE7CED /* 09-二维数组存储细节 */,
+				64EBA9A31B17914000CE7CED /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		64EBA9A31B17914000CE7CED /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				64EBA9A21B17914000CE7CED /* C9-二维数组 */,
+				64EBA9B01B17915700CE7CED /* 02-选择排序代码实现 */,
+				64EBA9BB1B17978100CE7CED /* 05-折半查找代码实现 */,
+				64EBA9C61B179E8C00CE7CED /* 07-二维数组初始化 */,
+				64EBA9D11B17A0E900CE7CED /* 08-遍历二维数组 */,
+				64EBA9DC1B17A60700CE7CED /* 09-二维数组存储细节 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		64EBA9A41B17914000CE7CED /* C9-二维数组 */ = {
+			isa = PBXGroup;
+			children = (
+				64EBA9A51B17914000CE7CED /* main.c */,
+			);
+			path = "C9-二维数组";
+			sourceTree = "<group>";
+		};
+		64EBA9B11B17915700CE7CED /* 02-选择排序代码实现 */ = {
+			isa = PBXGroup;
+			children = (
+				64EBA9B21B17915700CE7CED /* main.c */,
+			);
+			path = "02-选择排序代码实现";
+			sourceTree = "<group>";
+		};
+		64EBA9BC1B17978100CE7CED /* 05-折半查找代码实现 */ = {
+			isa = PBXGroup;
+			children = (
+				64EBA9BD1B17978100CE7CED /* main.c */,
+			);
+			path = "05-折半查找代码实现";
+			sourceTree = "<group>";
+		};
+		64EBA9C71B179E8C00CE7CED /* 07-二维数组初始化 */ = {
+			isa = PBXGroup;
+			children = (
+				64EBA9C81B179E8C00CE7CED /* main.c */,
+			);
+			path = "07-二维数组初始化";
+			sourceTree = "<group>";
+		};
+		64EBA9D21B17A0E900CE7CED /* 08-遍历二维数组 */ = {
+			isa = PBXGroup;
+			children = (
+				64EBA9D31B17A0E900CE7CED /* main.c */,
+			);
+			path = "08-遍历二维数组";
+			sourceTree = "<group>";
+		};
+		64EBA9DD1B17A60700CE7CED /* 09-二维数组存储细节 */ = {
+			isa = PBXGroup;
+			children = (
+				64EBA9DE1B17A60700CE7CED /* main.c */,
+			);
+			path = "09-二维数组存储细节";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		64EBA9A11B17914000CE7CED /* C9-二维数组 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 64EBA9A91B17914000CE7CED /* Build configuration list for PBXNativeTarget "C9-二维数组" */;
+			buildPhases = (
+				64EBA99E1B17914000CE7CED /* Sources */,
+				64EBA99F1B17914000CE7CED /* Frameworks */,
+				64EBA9A01B17914000CE7CED /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "C9-二维数组";
+			productName = "C9-二维数组";
+			productReference = 64EBA9A21B17914000CE7CED /* C9-二维数组 */;
+			productType = "com.apple.product-type.tool";
+		};
+		64EBA9AF1B17915700CE7CED /* 02-选择排序代码实现 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 64EBA9B41B17915700CE7CED /* Build configuration list for PBXNativeTarget "02-选择排序代码实现" */;
+			buildPhases = (
+				64EBA9AC1B17915700CE7CED /* Sources */,
+				64EBA9AD1B17915700CE7CED /* Frameworks */,
+				64EBA9AE1B17915700CE7CED /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "02-选择排序代码实现";
+			productName = "02-选择排序代码实现";
+			productReference = 64EBA9B01B17915700CE7CED /* 02-选择排序代码实现 */;
+			productType = "com.apple.product-type.tool";
+		};
+		64EBA9BA1B17978100CE7CED /* 05-折半查找代码实现 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 64EBA9BF1B17978100CE7CED /* Build configuration list for PBXNativeTarget "05-折半查找代码实现" */;
+			buildPhases = (
+				64EBA9B71B17978100CE7CED /* Sources */,
+				64EBA9B81B17978100CE7CED /* Frameworks */,
+				64EBA9B91B17978100CE7CED /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "05-折半查找代码实现";
+			productName = "05-折半查找代码实现";
+			productReference = 64EBA9BB1B17978100CE7CED /* 05-折半查找代码实现 */;
+			productType = "com.apple.product-type.tool";
+		};
+		64EBA9C51B179E8C00CE7CED /* 07-二维数组初始化 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 64EBA9CA1B179E8C00CE7CED /* Build configuration list for PBXNativeTarget "07-二维数组初始化" */;
+			buildPhases = (
+				64EBA9C21B179E8C00CE7CED /* Sources */,
+				64EBA9C31B179E8C00CE7CED /* Frameworks */,
+				64EBA9C41B179E8C00CE7CED /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "07-二维数组初始化";
+			productName = "07-二维数组初始化";
+			productReference = 64EBA9C61B179E8C00CE7CED /* 07-二维数组初始化 */;
+			productType = "com.apple.product-type.tool";
+		};
+		64EBA9D01B17A0E900CE7CED /* 08-遍历二维数组 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 64EBA9D51B17A0E900CE7CED /* Build configuration list for PBXNativeTarget "08-遍历二维数组" */;
+			buildPhases = (
+				64EBA9CD1B17A0E900CE7CED /* Sources */,
+				64EBA9CE1B17A0E900CE7CED /* Frameworks */,
+				64EBA9CF1B17A0E900CE7CED /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "08-遍历二维数组";
+			productName = "08-遍历二维数组";
+			productReference = 64EBA9D11B17A0E900CE7CED /* 08-遍历二维数组 */;
+			productType = "com.apple.product-type.tool";
+		};
+		64EBA9DB1B17A60700CE7CED /* 09-二维数组存储细节 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 64EBA9E01B17A60700CE7CED /* Build configuration list for PBXNativeTarget "09-二维数组存储细节" */;
+			buildPhases = (
+				64EBA9D81B17A60700CE7CED /* Sources */,
+				64EBA9D91B17A60700CE7CED /* Frameworks */,
+				64EBA9DA1B17A60700CE7CED /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "09-二维数组存储细节";
+			productName = "09-二维数组存储细节";
+			productReference = 64EBA9DC1B17A60700CE7CED /* 09-二维数组存储细节 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		64EBA99A1B17914000CE7CED /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0620;
+				ORGANIZATIONNAME = chan;
+				TargetAttributes = {
+					64EBA9A11B17914000CE7CED = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					64EBA9AF1B17915700CE7CED = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					64EBA9BA1B17978100CE7CED = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					64EBA9C51B179E8C00CE7CED = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					64EBA9D01B17A0E900CE7CED = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					64EBA9DB1B17A60700CE7CED = {
+						CreatedOnToolsVersion = 6.2;
+					};
+				};
+			};
+			buildConfigurationList = 64EBA99D1B17914000CE7CED /* Build configuration list for PBXProject "C9-二维数组" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 64EBA9991B17914000CE7CED;
+			productRefGroup = 64EBA9A31B17914000CE7CED /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				64EBA9A11B17914000CE7CED /* C9-二维数组 */,
+				64EBA9AF1B17915700CE7CED /* 02-选择排序代码实现 */,
+				64EBA9BA1B17978100CE7CED /* 05-折半查找代码实现 */,
+				64EBA9C51B179E8C00CE7CED /* 07-二维数组初始化 */,
+				64EBA9D01B17A0E900CE7CED /* 08-遍历二维数组 */,
+				64EBA9DB1B17A60700CE7CED /* 09-二维数组存储细节 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		64EBA99E1B17914000CE7CED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				64EBA9A61B17914000CE7CED /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64EBA9AC1B17915700CE7CED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				64EBA9B31B17915700CE7CED /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64EBA9B71B17978100CE7CED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				64EBA9BE1B17978100CE7CED /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64EBA9C21B179E8C00CE7CED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				64EBA9C91B179E8C00CE7CED /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64EBA9CD1B17A0E900CE7CED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				64EBA9D41B17A0E900CE7CED /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64EBA9D81B17A60700CE7CED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				64EBA9DF1B17A60700CE7CED /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		64EBA9A71B17914000CE7CED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		64EBA9A81B17914000CE7CED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		64EBA9AA1B17914000CE7CED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		64EBA9AB1B17914000CE7CED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		64EBA9B51B17915700CE7CED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		64EBA9B61B17915700CE7CED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		64EBA9C01B17978100CE7CED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		64EBA9C11B17978100CE7CED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		64EBA9CB1B179E8C00CE7CED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		64EBA9CC1B179E8C00CE7CED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		64EBA9D61B17A0E900CE7CED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		64EBA9D71B17A0E900CE7CED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		64EBA9E11B17A60700CE7CED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		64EBA9E21B17A60700CE7CED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		64EBA99D1B17914000CE7CED /* Build configuration list for PBXProject "C9-二维数组" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				64EBA9A71B17914000CE7CED /* Debug */,
+				64EBA9A81B17914000CE7CED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		64EBA9A91B17914000CE7CED /* Build configuration list for PBXNativeTarget "C9-二维数组" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				64EBA9AA1B17914000CE7CED /* Debug */,
+				64EBA9AB1B17914000CE7CED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		64EBA9B41B17915700CE7CED /* Build configuration list for PBXNativeTarget "02-选择排序代码实现" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				64EBA9B51B17915700CE7CED /* Debug */,
+				64EBA9B61B17915700CE7CED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		64EBA9BF1B17978100CE7CED /* Build configuration list for PBXNativeTarget "05-折半查找代码实现" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				64EBA9C01B17978100CE7CED /* Debug */,
+				64EBA9C11B17978100CE7CED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		64EBA9CA1B179E8C00CE7CED /* Build configuration list for PBXNativeTarget "07-二维数组初始化" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				64EBA9CB1B179E8C00CE7CED /* Debug */,
+				64EBA9CC1B179E8C00CE7CED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		64EBA9D51B17A0E900CE7CED /* Build configuration list for PBXNativeTarget "08-遍历二维数组" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				64EBA9D61B17A0E900CE7CED /* Debug */,
+				64EBA9D71B17A0E900CE7CED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		64EBA9E01B17A60700CE7CED /* Build configuration list for PBXNativeTarget "09-二维数组存储细节" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				64EBA9E11B17A60700CE7CED /* Debug */,
+				64EBA9E21B17A60700CE7CED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 64EBA99A1B17914000CE7CED /* Project object */;
+}
