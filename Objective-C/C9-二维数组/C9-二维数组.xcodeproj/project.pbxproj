@@ -13,6 +13,9 @@
 		64EBA9C91B179E8C00CE7CED /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 64EBA9C81B179E8C00CE7CED /* main.c */; };
 		64EBA9D41B17A0E900CE7CED /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 64EBA9D31B17A0E900CE7CED /* main.c */; };
 		64EBA9DF1B17A60700CE7CED /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 64EBA9DE1B17A60700CE7CED /* main.c */; };
+		64EBA9EA1B1841EA00CE7CED /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 64EBA9E91B1841EA00CE7CED /* main.c */; };
+		64EBA9F51B18467200CE7CED /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 64EBA9F41B18467200CE7CED /* main.c */; };
+		64EBAA001B18553900CE7CED /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 64EBA9FF1B18553900CE7CED /* main.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -70,6 +73,33 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
+		64EBA9E51B1841EA00CE7CED /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		64EBA9F01B18467200CE7CED /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		64EBA9FB1B18553900CE7CED /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
@@ -85,6 +115,12 @@
 		64EBA9D31B17A0E900CE7CED /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		64EBA9DC1B17A60700CE7CED /* 09-二维数组存储细节 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "09-二维数组存储细节"; sourceTree = BUILT_PRODUCTS_DIR; };
 		64EBA9DE1B17A60700CE7CED /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		64EBA9E71B1841EA00CE7CED /* 13-从键盘接受数据构成 二维数组 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "13-从键盘接受数据构成 二维数组"; sourceTree = BUILT_PRODUCTS_DIR; };
+		64EBA9E91B1841EA00CE7CED /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		64EBA9F21B18467200CE7CED /* 14-迷宫游戏 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "14-迷宫游戏"; sourceTree = BUILT_PRODUCTS_DIR; };
+		64EBA9F41B18467200CE7CED /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		64EBA9FD1B18553900CE7CED /* 15-优化迷宫游戏 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "15-优化迷宫游戏"; sourceTree = BUILT_PRODUCTS_DIR; };
+		64EBA9FF1B18553900CE7CED /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +166,27 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		64EBA9E41B1841EA00CE7CED /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64EBA9EF1B18467200CE7CED /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64EBA9FA1B18553900CE7CED /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -142,6 +199,9 @@
 				64EBA9C71B179E8C00CE7CED /* 07-二维数组初始化 */,
 				64EBA9D21B17A0E900CE7CED /* 08-遍历二维数组 */,
 				64EBA9DD1B17A60700CE7CED /* 09-二维数组存储细节 */,
+				64EBA9E81B1841EA00CE7CED /* 13-从键盘接受数据构成 二维数组 */,
+				64EBA9F31B18467200CE7CED /* 14-迷宫游戏 */,
+				64EBA9FE1B18553900CE7CED /* 15-优化迷宫游戏 */,
 				64EBA9A31B17914000CE7CED /* Products */,
 			);
 			sourceTree = "<group>";
@@ -155,6 +215,9 @@
 				64EBA9C61B179E8C00CE7CED /* 07-二维数组初始化 */,
 				64EBA9D11B17A0E900CE7CED /* 08-遍历二维数组 */,
 				64EBA9DC1B17A60700CE7CED /* 09-二维数组存储细节 */,
+				64EBA9E71B1841EA00CE7CED /* 13-从键盘接受数据构成 二维数组 */,
+				64EBA9F21B18467200CE7CED /* 14-迷宫游戏 */,
+				64EBA9FD1B18553900CE7CED /* 15-优化迷宫游戏 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -205,6 +268,30 @@
 				64EBA9DE1B17A60700CE7CED /* main.c */,
 			);
 			path = "09-二维数组存储细节";
+			sourceTree = "<group>";
+		};
+		64EBA9E81B1841EA00CE7CED /* 13-从键盘接受数据构成 二维数组 */ = {
+			isa = PBXGroup;
+			children = (
+				64EBA9E91B1841EA00CE7CED /* main.c */,
+			);
+			path = "13-从键盘接受数据构成 二维数组";
+			sourceTree = "<group>";
+		};
+		64EBA9F31B18467200CE7CED /* 14-迷宫游戏 */ = {
+			isa = PBXGroup;
+			children = (
+				64EBA9F41B18467200CE7CED /* main.c */,
+			);
+			path = "14-迷宫游戏";
+			sourceTree = "<group>";
+		};
+		64EBA9FE1B18553900CE7CED /* 15-优化迷宫游戏 */ = {
+			isa = PBXGroup;
+			children = (
+				64EBA9FF1B18553900CE7CED /* main.c */,
+			);
+			path = "15-优化迷宫游戏";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -312,6 +399,57 @@
 			productReference = 64EBA9DC1B17A60700CE7CED /* 09-二维数组存储细节 */;
 			productType = "com.apple.product-type.tool";
 		};
+		64EBA9E61B1841EA00CE7CED /* 13-从键盘接受数据构成 二维数组 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 64EBA9ED1B1841EA00CE7CED /* Build configuration list for PBXNativeTarget "13-从键盘接受数据构成 二维数组" */;
+			buildPhases = (
+				64EBA9E31B1841EA00CE7CED /* Sources */,
+				64EBA9E41B1841EA00CE7CED /* Frameworks */,
+				64EBA9E51B1841EA00CE7CED /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "13-从键盘接受数据构成 二维数组";
+			productName = "13-从键盘接受数据构成 二维数组";
+			productReference = 64EBA9E71B1841EA00CE7CED /* 13-从键盘接受数据构成 二维数组 */;
+			productType = "com.apple.product-type.tool";
+		};
+		64EBA9F11B18467200CE7CED /* 14-迷宫游戏 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 64EBA9F61B18467200CE7CED /* Build configuration list for PBXNativeTarget "14-迷宫游戏" */;
+			buildPhases = (
+				64EBA9EE1B18467200CE7CED /* Sources */,
+				64EBA9EF1B18467200CE7CED /* Frameworks */,
+				64EBA9F01B18467200CE7CED /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "14-迷宫游戏";
+			productName = "14-迷宫游戏";
+			productReference = 64EBA9F21B18467200CE7CED /* 14-迷宫游戏 */;
+			productType = "com.apple.product-type.tool";
+		};
+		64EBA9FC1B18553900CE7CED /* 15-优化迷宫游戏 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 64EBAA011B18553900CE7CED /* Build configuration list for PBXNativeTarget "15-优化迷宫游戏" */;
+			buildPhases = (
+				64EBA9F91B18553900CE7CED /* Sources */,
+				64EBA9FA1B18553900CE7CED /* Frameworks */,
+				64EBA9FB1B18553900CE7CED /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "15-优化迷宫游戏";
+			productName = "15-优化迷宫游戏";
+			productReference = 64EBA9FD1B18553900CE7CED /* 15-优化迷宫游戏 */;
+			productType = "com.apple.product-type.tool";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -339,6 +477,15 @@
 					64EBA9DB1B17A60700CE7CED = {
 						CreatedOnToolsVersion = 6.2;
 					};
+					64EBA9E61B1841EA00CE7CED = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					64EBA9F11B18467200CE7CED = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					64EBA9FC1B18553900CE7CED = {
+						CreatedOnToolsVersion = 6.2;
+					};
 				};
 			};
 			buildConfigurationList = 64EBA99D1B17914000CE7CED /* Build configuration list for PBXProject "C9-二维数组" */;
@@ -359,6 +506,9 @@
 				64EBA9C51B179E8C00CE7CED /* 07-二维数组初始化 */,
 				64EBA9D01B17A0E900CE7CED /* 08-遍历二维数组 */,
 				64EBA9DB1B17A60700CE7CED /* 09-二维数组存储细节 */,
+				64EBA9E61B1841EA00CE7CED /* 13-从键盘接受数据构成 二维数组 */,
+				64EBA9F11B18467200CE7CED /* 14-迷宫游戏 */,
+				64EBA9FC1B18553900CE7CED /* 15-优化迷宫游戏 */,
 			);
 		};
 /* End PBXProject section */
@@ -409,6 +559,30 @@
 			buildActionMask = 2147483647;
 			files = (
 				64EBA9DF1B17A60700CE7CED /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64EBA9E31B1841EA00CE7CED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				64EBA9EA1B1841EA00CE7CED /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64EBA9EE1B18467200CE7CED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				64EBA9F51B18467200CE7CED /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64EBA9F91B18553900CE7CED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				64EBAA001B18553900CE7CED /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -593,6 +767,60 @@
 			};
 			name = Release;
 		};
+		64EBA9EB1B1841EA00CE7CED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		64EBA9EC1B1841EA00CE7CED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		64EBA9F71B18467200CE7CED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		64EBA9F81B18467200CE7CED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		64EBAA021B18553900CE7CED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		64EBAA031B18553900CE7CED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -612,6 +840,7 @@
 				64EBA9AB1B17914000CE7CED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		64EBA9B41B17915700CE7CED /* Build configuration list for PBXNativeTarget "02-选择排序代码实现" */ = {
 			isa = XCConfigurationList;
@@ -620,6 +849,7 @@
 				64EBA9B61B17915700CE7CED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		64EBA9BF1B17978100CE7CED /* Build configuration list for PBXNativeTarget "05-折半查找代码实现" */ = {
 			isa = XCConfigurationList;
@@ -628,6 +858,7 @@
 				64EBA9C11B17978100CE7CED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		64EBA9CA1B179E8C00CE7CED /* Build configuration list for PBXNativeTarget "07-二维数组初始化" */ = {
 			isa = XCConfigurationList;
@@ -636,6 +867,7 @@
 				64EBA9CC1B179E8C00CE7CED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		64EBA9D51B17A0E900CE7CED /* Build configuration list for PBXNativeTarget "08-遍历二维数组" */ = {
 			isa = XCConfigurationList;
@@ -644,12 +876,38 @@
 				64EBA9D71B17A0E900CE7CED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		64EBA9E01B17A60700CE7CED /* Build configuration list for PBXNativeTarget "09-二维数组存储细节" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				64EBA9E11B17A60700CE7CED /* Debug */,
 				64EBA9E21B17A60700CE7CED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		64EBA9ED1B1841EA00CE7CED /* Build configuration list for PBXNativeTarget "13-从键盘接受数据构成 二维数组" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				64EBA9EB1B1841EA00CE7CED /* Debug */,
+				64EBA9EC1B1841EA00CE7CED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		64EBA9F61B18467200CE7CED /* Build configuration list for PBXNativeTarget "14-迷宫游戏" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				64EBA9F71B18467200CE7CED /* Debug */,
+				64EBA9F81B18467200CE7CED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		64EBAA011B18553900CE7CED /* Build configuration list for PBXNativeTarget "15-优化迷宫游戏" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				64EBAA021B18553900CE7CED /* Debug */,
+				64EBAA031B18553900CE7CED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};

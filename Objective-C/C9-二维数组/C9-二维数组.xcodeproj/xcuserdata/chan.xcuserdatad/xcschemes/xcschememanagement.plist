@@ -29,6 +29,21 @@
 			<key>orderHint</key>
 			<integer>5</integer>
 		</dict>
+		<key>13-从键盘接受数据构成 二维数组.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>14-迷宫游戏.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>15-优化迷宫游戏.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
 		<key>C9-二维数组.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -63,6 +78,21 @@
 			<true/>
 		</dict>
 		<key>64EBA9DB1B17A60700CE7CED</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>64EBA9E61B1841EA00CE7CED</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>64EBA9F11B18467200CE7CED</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>64EBA9FC1B18553900CE7CED</key>
 		<dict>
 			<key>primary</key>
 			<true/>

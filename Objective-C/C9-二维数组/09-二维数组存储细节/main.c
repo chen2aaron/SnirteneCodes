@@ -18,7 +18,7 @@ int main(int argc, const char * argv[]) {
     printf("&a[1]    = %p\n",a[1]);
     printf("&a[1][0] = %p\n",&a[1][0]);
     printf("-----------------------------\n");
-
+    
     //遍历地址
     for (int i=0; i<2; i++) {
         for (int j=0; j<4; j++) {
