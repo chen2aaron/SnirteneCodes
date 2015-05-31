@@ -11,6 +11,7 @@ Proceed in an orderly way and step by step.
 为了查漏补缺，理解更底层的一些东西，并为OC打基础。
 一年前曾经学过C，但是感觉当时理解得不够深，特别是内存分配和指针那一块，学完python之后再来看C，我去！简直so eazy！进度飞快！瞬间感觉萌萌哒～好开森啊！！！我觉得我快要进化了！！！哈哈哈哈哈哈
 
+下面是每个文件夹的说明
 
 ## BeautifulSoup 
 
@@ -34,8 +35,26 @@ Beautiful Soup 是一个可以从HTML或XML文件中提取数据的Python库.它
 ## PythonCookbookPractise
 《PythonCookbook》根据这本工具书写的例子，用的时候查查
 
+## Scrapy
+用爬虫框架 [Scrapy](http://doc.scrapy.org/en/latest/) 做的小抓抓
+
+* ### tutorial
+
+	官方文档练习
+
+* ### stack
+
+	stackoverflow的爬虫
+	
+	爬虫数据用json保存 存入mongodb数据库
+
+
+## Socket
+
+练习
+
 ## Spider
-一些爬虫 用到了第三方库 
+学累了，无聊做着玩的一些爬虫 用到了第三方库 
 
 * beautifulsoup
 * requests
