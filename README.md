@@ -27,7 +27,7 @@ Beautiful Soup 是一个可以从HTML或XML文件中提取数据的Python库.它
 一些零碎的codes，打草稿用
 
 ## JustForFUN
-一些有趣的codes，用着玩玩
+一些有趣的codes，写着玩玩
 
 ## Objective-C
 学习IOS开发时的练习
