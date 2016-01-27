@@ -1,29 +1,47 @@
-from flask import Flask, request
-import json
-from bson import json_util
-from bson.objectid import ObjectId
-import pymongo
-
-app = Flask(__name__)
-
-mongoClient = pymongo.MongoClient('localhost', 27017)
-db = mongoClient['dbmeizi']
-
-
-def toJson(data):
-    return json.dumps(data, default=json_util.default)
-
-
-@app.route('/meizi/', methods=['GET'])
-def findmeizi():
-    if request.method == 'GET':
-        lim = int(request.args.get('limit', 10))
-        off = int(request.args.get('offset'), 0)
-        results = db['meizi'].find().skip(off).limit(lim)
-        json_results = []
-        for result in results:
-            json_results.append(result)
-        return toJson(json_results)
-
-if __name__ == '__main__':
-    app.run(debug=True)
+wx_temp_response = {
+    'set_password': """{
+            "touser": "{}".format(openid),
+            "template_id": "Zu4weUNeJt3DMRv8dZzvScZz1QfDkIlejQWhPNCyoPI",
+            "topcolor": "#FF0000",
+            "data": {
+                "Mobile": {
+                    "value": "{}".format(mobile),
+                    "color": "#173177",
+                },
+                "CreateTime": {
+                    "value": "{}".format(time.strftime("%Y-%m-%d  %H:%M:%S")),
+                    "color": "#173177",
+                },
+            }
+        }""",
+    'set_pwd': {
+            "touser": "ojRiMuFScoR8NpOhgUVYu4RaDkuU",
+            "template_id": "84e0AedZVnrtQyhH7vlh1z61Vc26xf0RtHbMRRu46Ys",
+            "topcolor": "#FF0000",
+            "data": {
+                "first": {
+                    "value": "恭喜您，您已成功重置账户支付密码"
+                },
+                "keyword1": {
+                    "value": "支付密码"
+                },
+                "keyword2": {
+                    "value": "设置成功"
+                },
+                "remark": {
+                    "value": "如有疑问,请致电XXXXXX联系我们"
+        }
+    }
+    }}
+# a = PropDict(wx_temp_response)
+# print(a.set_password)
+content = wx_temp_response
+path = 'set_pwd/data/keyword1'
+value = 'xixi'
+def fill_dict_value(content, path, value):
+    keys = path.split('/')
+    for key in keys:
+        content = content[key]
+    return content
+a = fill_dict_value(content, path)
+print(a)

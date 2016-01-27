@@ -30,14 +30,14 @@ def duang(text):
     trans_text = " ".join(result)
     return trans_text
 
-print duang(text)
-print duang("map")
+print (duang(text))
+print (duang("map"))
 
 
 # 用推荐的方法maketrans  只用了一句，打击好大，我突然意识到我是不是造了个轮子
-import string
+# import string
 
-transfun = string.maketrans(
-    'abcdefghijklmnopqrstuvwxyz', 'cdefghijklmnopqrstuvwxyzab')
-print text.translate(transfun)
-print 'map'.translate(transfun)
+# transfun = string.maketrans(
+#     'abcdefghijklmnopqrstuvwxyz', 'cdefghijklmnopqrstuvwxyzab')
+# print text.translate(transfun)
+# print 'map'.translate(transfun)

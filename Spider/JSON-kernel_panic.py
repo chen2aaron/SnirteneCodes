@@ -4,7 +4,6 @@
 # Date: 15-5-30
 # Blog: morningchen.com
 
-
 import requests
 import json
 import sys
