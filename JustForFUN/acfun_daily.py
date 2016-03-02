@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
-import requests
+import logging
 from datetime import datetime
+
+import requests
 
 
 url = 'http://webapi.acfun.tv/record/actions/signin'

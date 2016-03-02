@@ -2,7 +2,6 @@
 import base64
 import hmac
 import string
-import urllib.parse
 from hashlib import sha1
 from Crypto.Cipher import AES
 import time
