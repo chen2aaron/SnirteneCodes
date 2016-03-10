@@ -22,7 +22,7 @@ Beautiful Soup 是一个可以从HTML或XML文件中提取数据的Python库.它
 ## BoomEG
 一些叼炸天的例子，值得好好学习
 
-## DataSrtuctures
+## DataStructures
 学习数据结构与算法
 
 ## Fragment
