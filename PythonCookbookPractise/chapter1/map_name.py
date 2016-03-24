@@ -16,6 +16,7 @@ def dict_to_stock(s):
 
 a = {'name': 'ACME', 'shares': 100, 'price': 123.45}
 print(dict_to_stock(a))
+print(list(dict_to_stock(a)))
 b = {'date': '2016-3-22'}
 dict_to_stock(b)
 print(stock_prototype)
