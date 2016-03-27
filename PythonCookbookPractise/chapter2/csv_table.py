@@ -1,13 +1,6 @@
 from collections import OrderedDict, namedtuple
 
 d = OrderedDict()
-ShopTradeTable = namedtuple(
-    'ShopTradeTable',
-    ['finished_at', 'user_name', 'borrowing_type', 'money', 'duration_type', 'borrow_rate',
-     'salesman_name', 'borrowing_id', 'service_fee', 'gps_use_fee',
-     'other_fee', 'valuation_fee', 'park_fee', 'agency_fee', 'violation_deposit', 'trailer_fee',
-     'account_management_fee', 'risk_deposit', 'gps_deposit', 'refund_deposit', 'advance_interest',
-     'refund_advance_interest', 'advance_payment', 'renewal_principal', 'activity_bonus'])
 SHOP_TRADE_TYPE = {
     'finished_at':              '日期',
     'user_name':                '客户',
@@ -34,6 +27,21 @@ SHOP_TRADE_TYPE = {
     'account_management_fee':   '账户管理费',
     'risk_deposit':             '风险押金',
     'gps_deposit':              'GPS押金',
-}
+    'recharge':                 '充值',
+    'investment':               '投资',
+    'loan':                     '放款',
+    'withdrawal':               '提现',
+    'saving_pot_bonus':         '存钱罐收益',
+    'transfer':                 '转账',
+    }
+
+ShopTradeTable = namedtuple(
+    'ShopTradeTable',
+    ['finished_at', 'user_name', 'borrowing_type', 'money', 'duration_type', 'borrow_rate',
+     'salesman_name', 'borrowing_id', 'service_fee', 'gps_use_fee', 'saving_pot_bonus',
+     'other_fee', 'valuation_fee', 'park_fee', 'agency_fee', 'violation_deposit', 'trailer_fee',
+     'account_management_fee', 'risk_deposit', 'gps_deposit', 'refund_deposit', 'advance_interest',
+     'refund_advance_interest', 'advance_payment', 'renewal_principal', 'activity_bonus',
+     'loan', 'transfer', 'recharge', 'withdrawal', 'investment'])
 s = ShopTradeTable(**SHOP_TRADE_TYPE)
-print(s)
+print(s._asdict())
