@@ -7,6 +7,7 @@ b = {'y': 2, 'z': 4 }
 
 # 返回第一次出现的key
 merged = ChainMap(a, b)
+
 print(list(merged.items()))
 
 # 动态更新

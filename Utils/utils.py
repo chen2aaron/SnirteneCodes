@@ -11,7 +11,6 @@ import hashlib
 import json
 import random
 import re
-from tornado.options import options
 
 
 class PropDict(dict):
