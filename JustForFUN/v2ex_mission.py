@@ -47,14 +47,14 @@ signin_once = re.findall(r'value="(\d+)" name="once"', signin_resp.text)[0]
 params['once'] = signin_once
 r = s.post(url=signin_url, data=params, headers=headers, verify=True)
 if r.url != host + '/':
-    print 'FAIL: %s' % r.url
+    print('FAIL: %s' % r.url)
 else:
     # 登陆成功 请求/mission/daily页面 获取once值
     daily_once = re.findall(r'once=(\d+)', s.get(mission_url).text)[0]
     if daily_once:
         # 拿到once请求/mission/daily/redeem
         resp = s.get(url=coin_url, data={'once': daily_once}, headers=headers, verify=True)
-        print 'SUCCESS: %s' % resp.url
+        print('SUCCESS: %s' % resp.url)
     else:
-        print 'BOOM: %s' % daily_once
+        print('BOOM: %s' % daily_once)
 
